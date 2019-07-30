@@ -16,6 +16,8 @@
 # Segmentation
 
 ## Character Segmentation 
+- https://github.com/watersink/Character-Segmentation
+- https://github.com/sharatsawhney/character_segmentation
 
 ## Word Segmentation
 - [githubharald/WordSegmentation](https://github.com/githubharald/WordSegmentation)
