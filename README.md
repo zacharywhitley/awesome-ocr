@@ -107,6 +107,7 @@
 - [HaozhengLi/EAST_ICPR](https://github.com/HaozhengLi/EAST_ICPR) - Forked from argman/EAST for the ICPR MTWI 2018 CHALLENGE
 - [deepthinking-qichao/EAST_ICPR2018](https://github.com/deepthinking-qichao/EAST_ICPR2018)
 - [SakuraRiven/EAST](https://github.com/SakuraRiven/EAST)
+- [EAST_ICPR2018](https://github.com/deepthinking-qichao/EAST_ICPR2018)
 ## TextBoxes
 - [TextBoxes_plusplus](https://github.com/MhLiao/TextBoxes_plusplus) TextBoxes++: A Single-Shot Oriented Scene Text Detector
 - [TextBoxes-TensorFlow](https://github.com/gxd1994/TextBoxes-TensorFlow) - TextBoxes re-implement using tensorflow
