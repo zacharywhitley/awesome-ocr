@@ -64,8 +64,6 @@
 - [Real-time-Scene-Text-Detection-and-Recognition-System](https://github.com/fnzhan/Real-time-Scene-Text-Detection-and-Recognition-System) - End-to-end pipeline for real-time scene text detection and recognition.
 - [ocr_attention](https://github.com/marvis/ocr_attention) - Robust Scene Text Recognition with Automatic Rectification.
 - [masktextspotter.caffee2](https://github.com/lvpengyuan/masktextspotter.caffe2) - The code of "Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes".
-- [tensorflow_PSENet](https://github.com/liuheng92/tensorflow_PSENet) - PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network
-- [PSENet](https://github.com/whai362/PSENet) - Shape Robust Text Detection with Progressive Scale Expansion Network.
 - [InceptText-Tensorflow](https://github.com/xieyufei1993/InceptText-Tensorflow) - An Implementation of the alogrithm in paper IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection.
 - [textspotter](https://github.com/tonghe90/textspotter) - An End-to-End TextSpotter with Explicit Alignment and Attention
 - [RRD](https://github.com/MhLiao/RRD) - RRD: Rotation-Sensitive Regression for Oriented Scene Text Detection.
@@ -116,6 +114,9 @@
 - [Shun14/TextBoxes_plusplus_Tensorflo](https://github.com/Shun14/TextBoxes_plusplus_Tensorflow) - Textboxes_plusplus implementation with Tensorflow (python)
 - [shinjayne/textboxes](https://github.com/shinjayne/textboxes) - Textboxes implementation with Tensorflow (python)
 - [shinTB](https://github.com/shinjayne/shinTB) - Textboxes : Image Text Detection Model : python package (tensorflow)
+## PSENet
+- [tensorflow_PSENet](https://github.com/liuheng92/tensorflow_PSENet) - PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network
+- [PSENet](https://github.com/whai362/PSENet) - Shape Robust Text Detection with Progressive Scale Expansion Network.
 
 # Font detection
 
