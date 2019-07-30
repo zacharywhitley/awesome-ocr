@@ -121,7 +121,7 @@
 
 - [typefont](https://github.com/Vasile-Peste/Typefont) - The first open-source library that detects the font of a text in a image. 
 
-# Optical Character Recognition
+# Optical Character Recognition Engines and Frameworks
 - [cnn_lstm_ctc_ocr](https://github.com/weinman/cnn_lstm_ctc_ocr) - Tensorflow-based CNN+LSTM trained with CTC-loss for OCR.
 - [PassportScanner](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the firstname, lastname, passport number, nationality, date of birth, expiration date and personal numer.
 - [pannous/tensorflow-ocr](https://github.com/pannous/tensorflow-ocr) - OCR using tensorflow with attention.
@@ -133,6 +133,7 @@
 - [CNN_LSTM_CTC_Tensorflow](https://github.com/watsonyanghx/CNN_LSTM_CTC_Tensorflow) - CNN+LSTM+CTC based OCR implemented using tensorflow.
 - [tmbdev/clstm](https://github.com/tmbdev/clstm) - A small C++ implementation of LSTM networks, focused on OCR.
 - [VistaOCR](https://github.com/isi-vista/VistaOCR)
+- [tesseract.js](https://github.com/naptha/tesseract.js)
 - [Tesseract](https://github.com/tesseract-ocr/tesseract)
 - [kaldi](https://github.com/kaldi-asr/kaldi)
 - [ocropus3](https://github.com/NVlabs/ocropus3) - Repository collecting all the submodules for the new PyTorch-based OCR System.
@@ -140,7 +141,6 @@
 - [ocropy](https://github.com/tmbdev/ocropy) - Python-based tools for document analysis and OCR
 - [chinese_ocr](https://github.com/YCG09/chinese_ocr)
 - [deep_ocr](https://github.com/JinpengLI/deep_ocr) - make a better chinese character recognition OCR than tesseract.
-- [songdejia/EAST](https://github.com/songdejia/EAST) - This is a pytorch re-implementation of EAST: An Efficient and Accurate Scene Text Detector.
 - [ocular](https://github.com/tberg12/ocular)
 - [textDetectionWithScriptID](https://github.com/isi-vista/textDetectionWithScriptID)
 - [transcribus](https://transkribus.eu/Transkribus/)
@@ -149,7 +149,6 @@
 - [Ocrad](https://www.gnu.org/software/ocrad/)
 - [franc](https://github.com/wooorm/franc) - Natural language detection
 - [ocrfeeder](https://github.com/GNOME/ocrfeeder)
-- [kraken](https://github.com/mittagessen/kraken)
 - [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr) - A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
 - [da03/attention-ocr](https://github.com/da03/Attention-OCR) - Visual Attention based OCR
 - [dhlab-epfl/dhSegment](https://github.com/dhlab-epfl/dhSegment) - Generic framework for historical document processing
@@ -164,6 +163,7 @@
 - https://github.com/OCR4all/OCR4all
 - https://github.com/andbue/nashi
 - http://kraken.re/
+- [kraken](https://github.com/mittagessen/kraken)
 
 # Awesome lists
 - https://github.com/whitelok/image-text-localization-recognition
