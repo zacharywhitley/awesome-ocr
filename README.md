@@ -123,6 +123,7 @@
 - [typefont](https://github.com/Vasile-Peste/Typefont) - The first open-source library that detects the font of a text in a image. 
 
 # Optical Character Recognition Engines and Frameworks
+- [Deeplearning-OCR](https://github.com/vinayakkailas/Deeplearning-OCR)
 - [PICCL](https://github.com/LanguageMachines/PICCL)
 - [cnn_lstm_ctc_ocr](https://github.com/weinman/cnn_lstm_ctc_ocr) - Tensorflow-based CNN+LSTM trained with CTC-loss for OCR.
 - [PassportScanner](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the firstname, lastname, passport number, nationality, date of birth, expiration date and personal numer.
