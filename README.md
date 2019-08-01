@@ -32,6 +32,7 @@
 - [ocroseg](https://github.com/NVlabs/ocroseg/) - This is a deep learning model for page layout analysis / segmentation.
 - [DIVA-DIA/DIVA_Layout_Analysis_Evaluator](https://github.com/DIVA-DIA/DIVA_Layout_Analysis_Evaluator) - Layout Analysis Evaluator for the ICDAR 2017 competition on Layout Analysis for Challenging Medieval Manuscripts
 - [ocrsegment](https://github.com/watersink/ocrsegment) - a deep learning model for page layout analysis / segmentation.
+- [ARU-Net](https://github.com/TobiasGruening/ARU-Net)
 
 ## Form Segmentation
 - https://github.com/doxakis/form-segmentation
