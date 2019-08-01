@@ -1,6 +1,6 @@
 # awesome-ocr
 
-# Deskewing and Dewarping
+## Deskewing and Dewarping
 
 - [unproject_text](https://github.com/mzucker/unproject_text) - Perspective recovery of text using transformed ellipses
 - [unpaper](https://github.com/Flameeyes/unpaper)
@@ -13,16 +13,16 @@
 - https://github.com/xellows1305/Document-Image-Dewarping
 - https://github.com/RaymondMcGuire/BOOK-CONTENT-SEGMENTATION-AND-DEWARPING
 
-# Segmentation
+## Segmentation
 
-## Character Segmentation 
+### Character Segmentation 
 - https://github.com/watersink/Character-Segmentation
 - https://github.com/sharatsawhney/character_segmentation
 
-## Word Segmentation
+### Word Segmentation
 - [githubharald/WordSegmentation](https://github.com/githubharald/WordSegmentation)
 
-## Document Segmentation
+### Document Segmentation
 - [LAREX](https://github.com/OCR4all/LAREX) - LAREX is a semi-automatic open-source tool for layout analysis on early printed books.
 - [leonlulu/DeepLayout](https://github.com/leonlulu/DeepLayout) - Deep learning based page layout analysis
 - https://github.com/dhlab-epfl/dhSegment
@@ -34,31 +34,31 @@
 - [ocrsegment](https://github.com/watersink/ocrsegment) - a deep learning model for page layout analysis / segmentation.
 - [ARU-Net](https://github.com/TobiasGruening/ARU-Net)
 
-## Form Segmentation
+### Form Segmentation
 - https://github.com/doxakis/form-segmentation
 
-# Handwritten
+## Handwritten
 
 - https://github.com/SparshaSaha/Handwritten-Number-Recognition-With-Image-Segmentation
 - https://github.com/ThomasDelteil/HandwrittenTextRecognition_MXNet
 - [SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow.
 - [handwriting-ocr](https://github.com/Breta01/handwriting-ocr) - OCR software for recognition of handwritten text
 
-# Tables
+## Tables
 
 - [TreeStructure](https://github.com/HazyResearch/TreeStructure) - Table Extraction Tool
 - [TableTrainNet](https://github.com/mawanda-jun/TableTrainNet) - Table recognition inside douments using neural networks.
 - [table_layout_detection_research](https://github.com/cbgaindia/parsers/blob/master/research/layout_detection_research.md) 
 - [TableBank](https://github.com/doc-analysis/TableBank)
 
-# Language detection
+## Language detection
 
 - [lingua](https://github.com/pemistahl/lingua) - The most accurate natural language detection library for Java and other JVM languages, suitable for long and short text alike
 - [langdetect](https://pypi.org/project/langdetect/)
 - [whatthelang](https://github.com/indix/whatthelang) - Lightning Fast Language Prediction rocket
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
-# Text detection and localization
+## Text detection and localization
 - [FOTS](https://github.com/xieyufei1993/FOTS) - An Implementation of the FOTS: Fast Oriented Text Spotting with a Unified Network.
 - [Scene-Text-Detection-with-SPECNET](https://github.com/AirBernard/Scene-Text-Detection-with-SPCNET) - Repository for Scene Text Detection with Supervised Pyramid Context Network with tensorflow.
 - [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch) - Pytorch implementation of CRAFT text detector.
@@ -97,11 +97,11 @@
 - [tensorflow-TextMountain](https://github.com/liny23/tensorflow-TextMountain) - TextMountain: Accurate Scene Text Detection via Instance Segmentation
 - [Bartzi/see](https://github.com/Bartzi/see) - Code for the AAAI 2018 publication "SEE: Towards Semi-Supervised End-to-End Scene Text Recognition"
 - [bgshih/aster](https://github.com/bgshih/aster) - Recognizing cropped text in natural images.
-## CTPN
+### CTPN
 - [text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)
 - [yizt/keras-ctpn](https://github.com/yizt/keras-ctpn)
 - [](https://github.com/tianzhi0549/CTPN) - Detecting Text in Natural Image with Connectionist Text Proposal Network
-## EAST
+### EAST
 - [EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
 - [AdvancedEAST](https://github.com/huoyijie/AdvancedEAST) - AdvancedEAST is an algorithm used for Scene image text detect, which is primarily based on EAST, and the significant improvement was also made, which make long text predictions more accurate.
 - [kurapan/EAST](https://github.com/kurapan/EAST) Implementation of EAST scene text detector in Keras
@@ -110,22 +110,22 @@
 - [deepthinking-qichao/EAST_ICPR2018](https://github.com/deepthinking-qichao/EAST_ICPR2018)
 - [SakuraRiven/EAST](https://github.com/SakuraRiven/EAST)
 - [EAST_ICPR2018](https://github.com/deepthinking-qichao/EAST_ICPR2018)
-## TextBoxes
+### TextBoxes
 - [TextBoxes_plusplus](https://github.com/MhLiao/TextBoxes_plusplus) TextBoxes++: A Single-Shot Oriented Scene Text Detector
 - [TextBoxes-TensorFlow](https://github.com/gxd1994/TextBoxes-TensorFlow) - TextBoxes re-implement using tensorflow
 - [zj463261929/TextBoxes](https://github.com/zj463261929/TextBoxes) - TextBoxes: A Fast Text Detector with a Single Deep Neural Network
 - [Shun14/TextBoxes_plusplus_Tensorflo](https://github.com/Shun14/TextBoxes_plusplus_Tensorflow) - Textboxes_plusplus implementation with Tensorflow (python)
 - [shinjayne/textboxes](https://github.com/shinjayne/textboxes) - Textboxes implementation with Tensorflow (python)
 - [shinTB](https://github.com/shinjayne/shinTB) - Textboxes : Image Text Detection Model : python package (tensorflow)
-## PSENet
+### PSENet
 - [tensorflow_PSENet](https://github.com/liuheng92/tensorflow_PSENet) - PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network
 - [PSENet](https://github.com/whai362/PSENet) - Shape Robust Text Detection with Progressive Scale Expansion Network.
 
-# Font detection
+## Font detection
 
 - [typefont](https://github.com/Vasile-Peste/Typefont) - The first open-source library that detects the font of a text in a image. 
 
-# Optical Character Recognition Engines and Frameworks
+## Optical Character Recognition Engines and Frameworks
 - [Deeplearning-OCR](https://github.com/vinayakkailas/Deeplearning-OCR)
 - [PICCL](https://github.com/LanguageMachines/PICCL)
 - [cnn_lstm_ctc_ocr](https://github.com/weinman/cnn_lstm_ctc_ocr) - Tensorflow-based CNN+LSTM trained with CTC-loss for OCR.
@@ -171,7 +171,7 @@
 - http://kraken.re/
 - [kraken](https://github.com/mittagessen/kraken)
 
-# Awesome lists
+## Awesome lists
 - https://github.com/whitelok/image-text-localization-recognition
 - [Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition) - 
 A curated list of resources dedicated to scene text localization and recognition
@@ -189,17 +189,16 @@ A curated list of resources dedicated to scene text localization and recognition
 - https://github.com/hwalsuklee/awesome-deep-text-detection-recognition
 - https://github.com/tangzhenyu/Scene-Text-Understanding
 
-# Proprietary
+## Proprietary
 - [ABBYY](https://www.abbyy.com/en-us/)
 - [Omnipage](https://www.nuance.com/print-capture-and-pdf-solutions.html)
 - [Clova.ai](https://demo.ocr.clova.ai/)
-# Blogs/etc
 
-# File formats and tools
+## File formats and tools
 
 - [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files
 
-# Datasets
+## Datasets
 - http://www.iapr-tc11.org/mediawiki/index.php/Datasets_List
 - https://icdar2019.org/competitions-2/
 - https://rrc.cvc.uab.es/#
@@ -210,20 +209,20 @@ A curated list of resources dedicated to scene text localization and recognition
 - https://github.com/cs-chan/Total-Text-Dataset
 - [scenetext](http://www.robots.ox.ac.uk/~vgg/data/scenetext/) - This is a synthetically generated dataset, in which word instances are placed in natural scene images, while taking into account the scene layout.
 
-# Data augmentation and Synthetic data generation
+## Data augmentation and Synthetic data generation
 - [DocCreator](http://doc-creator.labri.fr/) - DIAR software for synthetic document image and groundtruth generation, with various degradation models for data augmentation.
 - [Scene-Text-Image-Transformer](https://github.com/Canjie-Luo/Scene-Text-Image-Transformer) - Scene Text Image Transformer
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
 - [Sanster/text_renderer](https://github.com/Sanster/text_renderer) - https://github.com/Sanster/text_renderer
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - https://github.com/Belval/TextRecognitionDataGenerator
 
-# Post OCR Correction
+## Post OCR Correction
 
 - [KBNLresearch/ochre](https://github.com/KBNLresearch/ochre) - Toolbox for OCR post-correction
 - [cisocrgroup/PoCoTo](https://github.com/cisocrgroup/PoCoTo) - The CIS OCR PostCorrectionTool
 - [afterscan](http://www.afterscan.com/) 
 
-# misc
+## misc
 - https://github.com/NVlabs/ocrodeg
 - https://github.com/scantailor/scantailor
 - https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet
