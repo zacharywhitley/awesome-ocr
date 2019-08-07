@@ -23,6 +23,7 @@
 - [githubharald/WordSegmentation](https://github.com/githubharald/WordSegmentation)
 
 ### Document Segmentation
+- [chulwoopack/docstrum](https://github.com/chulwoopack/docstrum)
 - [LAREX](https://github.com/OCR4all/LAREX) - LAREX is a semi-automatic open-source tool for layout analysis on early printed books.
 - [leonlulu/DeepLayout](https://github.com/leonlulu/DeepLayout) - Deep learning based page layout analysis
 - https://github.com/dhlab-epfl/dhSegment
