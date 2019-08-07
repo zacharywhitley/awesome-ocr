@@ -112,6 +112,8 @@
 - [deepthinking-qichao/EAST_ICPR2018](https://github.com/deepthinking-qichao/EAST_ICPR2018)
 - [SakuraRiven/EAST](https://github.com/SakuraRiven/EAST)
 - [EAST_ICPR2018](https://github.com/deepthinking-qichao/EAST_ICPR2018)
+- [EAST-Detector-for-text-detection-using-OpenCV](https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV) - Text Detection from images using OpenCV
+
 ### TextBoxes
 - [TextBoxes_plusplus](https://github.com/MhLiao/TextBoxes_plusplus) TextBoxes++: A Single-Shot Oriented Scene Text Detector
 - [TextBoxes-TensorFlow](https://github.com/gxd1994/TextBoxes-TensorFlow) - TextBoxes re-implement using tensorflow
