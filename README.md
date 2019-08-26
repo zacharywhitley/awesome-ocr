@@ -195,6 +195,8 @@ A curated list of resources dedicated to scene text localization and recognition
 - https://github.com/hwalsuklee/awesome-deep-text-detection-recognition
 - https://github.com/tangzhenyu/Scene-Text-Understanding
 - https://github.com/whitelok/image-text-localization-recognition
+- https://github.com/kba/awesome-ocr
+- https://github.com/soumendra/awesome-ocr
 
 ## Proprietary Engines
 - [ABBYY](https://www.abbyy.com/en-us/)
