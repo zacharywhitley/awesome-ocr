@@ -130,6 +130,8 @@
 - [typefont](https://github.com/Vasile-Peste/Typefont) - The first open-source library that detects the font of a text in a image. 
 
 ## Optical Character Recognition Engines and Frameworks
+- [OCR-D](https://ocr-d.github.io/)
+- [ocrd_tesserocr](https://github.com/OCR-D/ocrd_tesserocr)
 - [Deeplearning-OCR](https://github.com/vinayakkailas/Deeplearning-OCR)
 - [PICCL](https://github.com/LanguageMachines/PICCL)
 - [cnn_lstm_ctc_ocr](https://github.com/weinman/cnn_lstm_ctc_ocr) - Tensorflow-based CNN+LSTM trained with CTC-loss for OCR.
@@ -193,7 +195,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - https://github.com/hwalsuklee/awesome-deep-text-detection-recognition
 - https://github.com/tangzhenyu/Scene-Text-Understanding
 
-## Proprietary
+## Proprietary Engines
 - [ABBYY](https://www.abbyy.com/en-us/)
 - [Omnipage](https://www.nuance.com/print-capture-and-pdf-solutions.html)
 - [Clova.ai](https://demo.ocr.clova.ai/)
