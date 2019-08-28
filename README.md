@@ -179,6 +179,7 @@
 - https://github.com/andbue/nashi
 - http://kraken.re/
 - [kraken](https://github.com/mittagessen/kraken)
+- [gosseract](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library.
 
 ## Awesome lists
 - https://github.com/whitelok/image-text-localization-recognition
