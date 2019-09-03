@@ -66,7 +66,6 @@
 ## Text detection and localization
 - [FOTS](https://github.com/xieyufei1993/FOTS) - An Implementation of the FOTS: Fast Oriented Text Spotting with a Unified Network.
 - [Scene-Text-Detection-with-SPECNET](https://github.com/AirBernard/Scene-Text-Detection-with-SPCNET) - Repository for Scene Text Detection with Supervised Pyramid Context Network with tensorflow.
-- [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch) - Pytorch implementation of CRAFT text detector.
 - [Character-Region-Awareness-for-Text-Detection](https://github.com/guruL/Character-Region-Awareness-for-Text-Detection-)
 - [Real-time-Scene-Text-Detection-and-Recognition-System](https://github.com/fnzhan/Real-time-Scene-Text-Detection-and-Recognition-System) - End-to-end pipeline for real-time scene text detection and recognition.
 - [ocr_attention](https://github.com/marvis/ocr_attention) - Robust Scene Text Recognition with Automatic Rectification.
@@ -116,6 +115,9 @@
 - [SakuraRiven/EAST](https://github.com/SakuraRiven/EAST)
 - [EAST_ICPR2018](https://github.com/deepthinking-qichao/EAST_ICPR2018)
 - [EAST-Detector-for-text-detection-using-OpenCV](https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV) - Text Detection from images using OpenCV
+### CRAFT
+- [pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition) 
+- [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch) - Pytorch implementation of CRAFT text detector.
 
 ### TextBoxes
 - [TextBoxes_plusplus](https://github.com/MhLiao/TextBoxes_plusplus) TextBoxes++: A Single-Shot Oriented Scene Text Detector
