@@ -118,6 +118,7 @@
 ### CRAFT
 - [pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition) 
 - [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch) - Pytorch implementation of CRAFT text detector.
+- [CRAFT-Reimplementation](https://github.com/backtime92/CRAFT-Reimplementation)
 
 ### TextBoxes
 - [TextBoxes_plusplus](https://github.com/MhLiao/TextBoxes_plusplus) TextBoxes++: A Single-Shot Oriented Scene Text Detector
