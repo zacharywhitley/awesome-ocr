@@ -80,6 +80,7 @@
 - [Tensorflow_SceneText_Oriented_Box_Predictor](https://github.com/dafanghe/Tensorflow_SceneText_Oriented_Box_Predictor) - This project modify tensorflow object detection api code to predict oriented bounding boxes. It can be used for scene text detection.
 - [DeepSceneTextReader](https://github.com/dafanghe/DeepSceneTextReader) - This is a c++ project deploying a deep scene text reading pipeline with tensorflow. It reads text from natural scene images. It uses frozen tensorflow graphs. The detector detect scene text locations. The recognizer reads word from each detected bounding box.
 - [DeRPN](https://github.com/HCIILAB/DeRPN) - A novel region proposal network for more general object detection ( including scene text detection ).
+- [Bartzi/see](https://github.com/Bartzi/see) - SEE: Towards Semi-Supervised End-to-End Scene Text Recognition
 - [Bartzi/stn-ocr](https://github.com/Bartzi/stn-ocr) - Code for the paper STN-OCR: A single Neural Network for Text Detection and Text Recognition
 - [beacandler/R2CNN](https://github.com/beacandler/R2CNN) - caffe re-implementation of R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection
 - [HsiehYiChia/Scene-text-recognition](https://github.com/HsiehYiChia/Scene-text-recognition) - Scene text detection and recognition based on Extremal Region(ER)
