@@ -235,6 +235,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
 - [Sanster/text_renderer](https://github.com/Sanster/text_renderer) - https://github.com/Sanster/text_renderer
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - https://github.com/Belval/TextRecognitionDataGenerator
+- [awesome-SynthText](https://github.com/TianzhongSong/awesome-SynthText)
 
 ## Pre OCR Processing
 - [ajgalleo/document-image-binarization](https://github.com/ajgallego/document-image-binarization)
