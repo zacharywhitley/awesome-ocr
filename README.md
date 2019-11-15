@@ -38,6 +38,7 @@
 - [ocrsegment](https://github.com/watersink/ocrsegment) - a deep learning model for page layout analysis / segmentation.
 - [ARU-Net](https://github.com/TobiasGruening/ARU-Net)
 - [xy-cut-tree](https://github.com/kavishgambhir/xy-cut-tree)
+- [ocrd_segment](https://github.com/OCR-D/ocrd_segment)
 
 ### Form Segmentation
 - https://github.com/doxakis/form-segmentation
