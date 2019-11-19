@@ -39,6 +39,7 @@
 - [ARU-Net](https://github.com/TobiasGruening/ARU-Net)
 - [xy-cut-tree](https://github.com/kavishgambhir/xy-cut-tree)
 - [ocrd_segment](https://github.com/OCR-D/ocrd_segment)
+- [LAREX](https://github.com/OCR4all/LAREX) - A semi-automatic open-source tool for Layout Analysis and Region EXtraction on early printed books.
 
 ### Form Segmentation
 - https://github.com/doxakis/form-segmentation
