@@ -16,7 +16,7 @@
 ## Segmentation
 
 ### Line Segmentation
-- [ARU-Net]https://github.com/TobiasGruening/ARU-Net)
+- [ARU-Net](https://github.com/TobiasGruening/ARU-Net)
 
 ### Character Segmentation 
 - https://github.com/watersink/Character-Segmentation
