@@ -5,7 +5,7 @@
 - [unproject_text](https://github.com/mzucker/unproject_text) - Perspective recovery of text using transformed ellipses
 - [unpaper](https://github.com/Flameeyes/unpaper)
 - [deskew](https://github.com/sbrunner/deskew)
-- [deskewing](https://github.com/sauravbiswasiupr/deskewing)
+- [deskewing](https://github.com/sauravbiswasiupr/deskewing) - Contains code to deskew images using MLPs, LSTMs and LLS tranformations
 - [skew_correction](https://github.com/prajwalmylar/skew_correction)
 - [page_dewarp](https://github.com/mzucker/page_dewarp)
 - [text_deskewing](https://github.com/dehaisea/text_deskewing)
