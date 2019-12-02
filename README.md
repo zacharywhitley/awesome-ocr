@@ -107,7 +107,7 @@
 ### CTPN
 - [text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)
 - [yizt/keras-ctpn](https://github.com/yizt/keras-ctpn)
-- [](https://github.com/tianzhi0549/CTPN) - Detecting Text in Natural Image with Connectionist Text Proposal Network
+- [tianzhi0549/CTPN](https://github.com/tianzhi0549/CTPN) - Detecting Text in Natural Image with Connectionist Text Proposal Network
 ### EAST
 - [EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
 - [AdvancedEAST](https://github.com/huoyijie/AdvancedEAST) - AdvancedEAST is an algorithm used for Scene image text detect, which is primarily based on EAST, and the significant improvement was also made, which make long text predictions more accurate.
