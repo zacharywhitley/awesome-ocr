@@ -248,7 +248,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [afterscan](http://www.afterscan.com/) 
 
 ## misc
-- https://github.com/NVlabs/ocrodeg
+- [ocrodeg](https://github.com/NVlabs/ocrodeg) - a small Python library implementing document image degradation for data augmentation for handwriting recognition and OCR applications.
 - [scantailor](https://github.com/scantailor/scantailor) - Scan Tailor is an interactive post-processing tool for scanned pages.
 - https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet
 - https://github.com/jlsutherland/doc2text
