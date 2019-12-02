@@ -249,14 +249,13 @@ A curated list of resources dedicated to scene text localization and recognition
 
 ## misc
 - https://github.com/NVlabs/ocrodeg
-- https://github.com/scantailor/scantailor
+- [scantailor](https://github.com/scantailor/scantailor) - Scan Tailor is an interactive post-processing tool for scanned pages.
 - https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet
 - https://github.com/jlsutherland/doc2text
 - https://github.com/mauvilsa/nw-page-editor
 - https://transkribus.eu/Transkribus/
 - http://projectnaptha.com/
 - https://github.com/4lex4/scantailor-advanced
-- https://github.com/scantailor/scantailor
 - [PRLib](https://github.com/leha-bot/PRLib) - Pre-Recognize Library - library with algorithms for improving OCR quality.
 - [ocr-fileformat](https://github.com/UB-Mannheim/ocr-fileformat) - Validate and transform various OCR file formats (hOCR, ALTO, PAGE, FineReader)
 - [open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
