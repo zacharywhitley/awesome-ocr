@@ -39,7 +39,6 @@
 - [ARU-Net](https://github.com/TobiasGruening/ARU-Net)
 - [xy-cut-tree](https://github.com/kavishgambhir/xy-cut-tree)
 - [ocrd_segment](https://github.com/OCR-D/ocrd_segment)
-- [LAREX](https://github.com/OCR4all/LAREX) - A semi-automatic open-source tool for Layout Analysis and Region EXtraction on early printed books.
 
 ### Form Segmentation
 - https://github.com/doxakis/form-segmentation
@@ -116,13 +115,11 @@
 - [HaozhengLi/EAST_ICPR](https://github.com/HaozhengLi/EAST_ICPR) - Forked from argman/EAST for the ICPR MTWI 2018 CHALLENGE
 - [deepthinking-qichao/EAST_ICPR2018](https://github.com/deepthinking-qichao/EAST_ICPR2018)
 - [SakuraRiven/EAST](https://github.com/SakuraRiven/EAST)
-- [EAST_ICPR2018](https://github.com/deepthinking-qichao/EAST_ICPR2018)
 - [EAST-Detector-for-text-detection-using-OpenCV](https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV) - Text Detection from images using OpenCV
 ### CRAFT
 - [pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition) 
 - [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch) - Pytorch implementation of CRAFT text detector.
 - [CRAFT-Reimplementation](https://github.com/backtime92/CRAFT-Reimplementation)
-
 ### TextBoxes
 - [TextBoxes_plusplus](https://github.com/MhLiao/TextBoxes_plusplus) TextBoxes++: A Single-Shot Oriented Scene Text Detector
 - [TextBoxes-TensorFlow](https://github.com/gxd1994/TextBoxes-TensorFlow) - TextBoxes re-implement using tensorflow
@@ -217,6 +214,11 @@ A curated list of resources dedicated to scene text localization and recognition
 ## File formats and tools
 
 - [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files
+- hocr
+- [alto](https://github.com/altoxml)
+- page
+- [ocr-fileformat](https://github.com/UB-Mannheim/ocr-fileformat) - Validate and transform various OCR file formats
+- [hocr-tools](https://github.com/tmbdev/hocr-tools) - Tools for manipulating and evaluating the hOCR format for representing multi-lingual OCR results by embedding them into HTML.
 
 ## Datasets
 - http://www.iapr-tc11.org/mediawiki/index.php/Datasets_List
