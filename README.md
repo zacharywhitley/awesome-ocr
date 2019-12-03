@@ -6,7 +6,7 @@
 - [unpaper](https://github.com/Flameeyes/unpaper) - a post-processing tool for scanned sheets of paper, especially for book pages that have been scanned from previously created photocopies.
 - [deskew](https://github.com/sbrunner/deskew) - Library used to deskew a scanned document
 - [deskewing](https://github.com/sauravbiswasiupr/deskewing) - Contains code to deskew images using MLPs, LSTMs and LLS tranformations
-- [skew_correction](https://github.com/prajwalmylar/skew_correction)
+- [skew_correction](https://github.com/prajwalmylar/skew_correction) - De-skewing images with slanted content by finding the deviation using Canny Edge Detection.
 - [page_dewarp](https://github.com/mzucker/page_dewarp)
 - [text_deskewing](https://github.com/dehaisea/text_deskewing)
 - https://github.com/galfar/deskew
