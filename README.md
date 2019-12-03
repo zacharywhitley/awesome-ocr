@@ -216,7 +216,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files
 - hocr
 - [alto](https://github.com/altoxml)
-- page
+- [PageXML](https://github.com/PRImA-Research-Lab/PAGE-XML)
 - [ocr-fileformat](https://github.com/UB-Mannheim/ocr-fileformat) - Validate and transform various OCR file formats
 - [hocr-tools](https://github.com/tmbdev/hocr-tools) - Tools for manipulating and evaluating the hOCR format for representing multi-lingual OCR results by embedding them into HTML.
 
