@@ -116,6 +116,7 @@
 - [deepthinking-qichao/EAST_ICPR2018](https://github.com/deepthinking-qichao/EAST_ICPR2018)
 - [SakuraRiven/EAST](https://github.com/SakuraRiven/EAST)
 - [EAST-Detector-for-text-detection-using-OpenCV](https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV) - Text Detection from images using OpenCV
+- [easy-EAST](https://github.com/che220/easy-EAST)
 ### CRAFT
 - [pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition) 
 - [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch) - Pytorch implementation of CRAFT text detector.
