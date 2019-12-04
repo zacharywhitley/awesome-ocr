@@ -267,3 +267,4 @@ A curated list of resources dedicated to scene text localization and recognition
 - [ocr-table](https://github.com/cseas/ocr-table) - Extract tables from scanned image PDFs using Optical Character Recognition.
 - https://github.com/MaybeShewill-CV/CRNN_Tensorflow
 - [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods.
+- [dinglehopper](https://github.com/qurator-spk/dinglehopper) - dinglehopper is an OCR evaluation tool and reads ALTO, PAGE and text files.
