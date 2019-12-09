@@ -65,6 +65,7 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
+- [PAN-PSEnet](https://github.com/rahzaazhar/PAN-PSEnet)
 - [FOTS](https://github.com/xieyufei1993/FOTS) - An Implementation of the FOTS: Fast Oriented Text Spotting with a Unified Network.
 - [Scene-Text-Detection-with-SPECNET](https://github.com/AirBernard/Scene-Text-Detection-with-SPCNET) - Repository for Scene Text Detection with Supervised Pyramid Context Network with tensorflow.
 - [Character-Region-Awareness-for-Text-Detection](https://github.com/guruL/Character-Region-Awareness-for-Text-Detection-)
