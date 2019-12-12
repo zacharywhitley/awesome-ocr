@@ -8,7 +8,7 @@
 - [deskewing](https://github.com/sauravbiswasiupr/deskewing) - Contains code to deskew images using MLPs, LSTMs and LLS tranformations
 - [skew_correction](https://github.com/prajwalmylar/skew_correction) - De-skewing images with slanted content by finding the deviation using Canny Edge Detection.
 - [page_dewarp](https://github.com/mzucker/page_dewarp) - Page dewarping and thresholding using a "cubic sheet" model 
-- [text_deskewing](https://github.com/dehaisea/text_deskewing)
+- [text_deskewing](https://github.com/dehaisea/text_deskewing) - Rotate text images if they are not straight for better text detection and recognition.
 - https://github.com/galfar/deskew
 - https://github.com/xellows1305/Document-Image-Dewarping
 - https://github.com/RaymondMcGuire/BOOK-CONTENT-SEGMENTATION-AND-DEWARPING
