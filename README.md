@@ -9,7 +9,7 @@
 - [skew_correction](https://github.com/prajwalmylar/skew_correction) - De-skewing images with slanted content by finding the deviation using Canny Edge Detection.
 - [page_dewarp](https://github.com/mzucker/page_dewarp) - Page dewarping and thresholding using a "cubic sheet" model 
 - [text_deskewing](https://github.com/dehaisea/text_deskewing) - Rotate text images if they are not straight for better text detection and recognition.
-- https://github.com/galfar/deskew
+- [galfar/deskew](https://github.com/galfar/deskew) - Deskew is a command line tool for deskewing scanned text documents. It uses Hough transform to detect "text lines" in the image. As an output, you get an image rotated so that the lines are horizontal.
 - https://github.com/xellows1305/Document-Image-Dewarping
 - https://github.com/RaymondMcGuire/BOOK-CONTENT-SEGMENTATION-AND-DEWARPING
 - [Docuwarp](https://github.com/thomasjhuang/deep-learning-for-document-dewarping)
