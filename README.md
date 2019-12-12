@@ -12,6 +12,7 @@
 - https://github.com/galfar/deskew
 - https://github.com/xellows1305/Document-Image-Dewarping
 - https://github.com/RaymondMcGuire/BOOK-CONTENT-SEGMENTATION-AND-DEWARPING
+- [Docuwarp](https://github.com/thomasjhuang/deep-learning-for-document-dewarping)
 
 ## Segmentation
 
