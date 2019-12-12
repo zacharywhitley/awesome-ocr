@@ -7,7 +7,7 @@
 - [deskew](https://github.com/sbrunner/deskew) - Library used to deskew a scanned document
 - [deskewing](https://github.com/sauravbiswasiupr/deskewing) - Contains code to deskew images using MLPs, LSTMs and LLS tranformations
 - [skew_correction](https://github.com/prajwalmylar/skew_correction) - De-skewing images with slanted content by finding the deviation using Canny Edge Detection.
-- [page_dewarp](https://github.com/mzucker/page_dewarp)
+- [page_dewarp](https://github.com/mzucker/page_dewarp) - Page dewarping and thresholding using a "cubic sheet" model 
 - [text_deskewing](https://github.com/dehaisea/text_deskewing)
 - https://github.com/galfar/deskew
 - https://github.com/xellows1305/Document-Image-Dewarping
