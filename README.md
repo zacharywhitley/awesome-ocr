@@ -18,6 +18,7 @@
 
 ### Line Segmentation
 - [ARU-Net](https://github.com/TobiasGruening/ARU-Net)
+- [sbb_textline_detector](https://github.com/qurator-spk/sbb_textline_detector)
 
 ### Character Segmentation 
 - https://github.com/watersink/Character-Segmentation
