@@ -141,6 +141,7 @@
 - [typefont](https://github.com/Vasile-Peste/Typefont) - The first open-source library that detects the font of a text in a image. 
 
 ## Optical Character Recognition Engines and Frameworks
+- [ocular](https://github.com/ndnlp/ocular) - Ocular is a state-of-the-art historical OCR system. 
 - [OCR++](https://github.com/mayank4490/OCR-plus-plus)
 - [pytextrator](https://github.com/danwald/pytextractor) - python ocr using tesseract/ with EAST opencv detector 
 - [OCR-D](https://ocr-d.github.io/)
