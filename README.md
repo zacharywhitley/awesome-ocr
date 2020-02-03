@@ -22,8 +22,8 @@
 - [sbb_textline_detector](https://github.com/qurator-spk/sbb_textline_detector)
 
 ### Character Segmentation 
-- https://github.com/watersink/Character-Segmentation
-- https://github.com/sharatsawhney/character_segmentation
+- [watersink/Character-Segmentation](https://github.com/watersink/Character-Segmentation)
+- [sharatsawhney/character_segmentation](https://github.com/sharatsawhney/character_segmentation)
 
 ### Word Segmentation
 - [githubharald/WordSegmentation](https://github.com/githubharald/WordSegmentation)
@@ -32,9 +32,9 @@
 - [chulwoopack/docstrum](https://github.com/chulwoopack/docstrum)
 - [LAREX](https://github.com/OCR4all/LAREX) - LAREX is a semi-automatic open-source tool for layout analysis on early printed books.
 - [leonlulu/DeepLayout](https://github.com/leonlulu/DeepLayout) - Deep learning based page layout analysis
-- https://github.com/dhlab-epfl/dhSegment
-- https://github.com/Pay20Y/Layout_Analysis
-- https://github.com/rbaguila/document-layout-analysis
+- [dhSegment](https://github.com/dhlab-epfl/dhSegment)
+- [Pay20Y/Layout_Analysis](https://github.com/Pay20Y/Layout_Analysis)
+- [rbaguila/document-layout-analysis](https://github.com/rbaguila/document-layout-analysis)
 - [P2PaLA](https://github.com/lquirosd/P2PaLA) - Page to PAGE Layout Analysis Tool
 - [ocroseg](https://github.com/NVlabs/ocroseg/) - This is a deep learning model for page layout analysis / segmentation.
 - [DIVA-DIA/DIVA_Layout_Analysis_Evaluator](https://github.com/DIVA-DIA/DIVA_Layout_Analysis_Evaluator) - Layout Analysis Evaluator for the ICDAR 2017 competition on Layout Analysis for Challenging Medieval Manuscripts
