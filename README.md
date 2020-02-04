@@ -18,7 +18,7 @@
 ## Segmentation
 
 ### Line Segmentation
-- [ARU-Net](https://github.com/TobiasGruening/ARU-Net)
+- [ARU-Net](https://github.com/TobiasGruening/ARU-Net) - Deep Learning Chinese Word Segment
 - [sbb_textline_detector](https://github.com/qurator-spk/sbb_textline_detector)
 
 ### Character Segmentation 
@@ -27,6 +27,7 @@
 
 ### Word Segmentation
 - [githubharald/WordSegmentation](https://github.com/githubharald/WordSegmentation)
+- [kcws](https://github.com/koth/kcws)
 
 ### Document Segmentation
 - [chulwoopack/docstrum](https://github.com/chulwoopack/docstrum)
