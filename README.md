@@ -2,6 +2,7 @@
 
 ## Deskewing and Dewarping
 
+- [thomasjhaung/deep-learning-for-document-dewarping](https://github.com/thomasjhuang/deep-learning-for-document-dewarping)
 - [unproject_text](https://github.com/mzucker/unproject_text) - Perspective recovery of text using transformed ellipses
 - [unpaper](https://github.com/Flameeyes/unpaper) - a post-processing tool for scanned sheets of paper, especially for book pages that have been scanned from previously created photocopies.
 - [deskew](https://github.com/sbrunner/deskew) - Library used to deskew a scanned document
