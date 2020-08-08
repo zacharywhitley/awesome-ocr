@@ -197,6 +197,7 @@
 - [kraken](https://github.com/mittagessen/kraken)
 - [gosseract](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library.
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai.
+- [invoice-scanner-react-native](https://github.com/burhanuday/invoice-scanner-react-native)
 
 ## Awesome lists
 - https://github.com/whitelok/image-text-localization-recognition
