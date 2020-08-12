@@ -62,6 +62,7 @@
 - [TableTrainNet](https://github.com/mawanda-jun/TableTrainNet) - Table recognition inside douments using neural networks.
 - [table_layout_detection_research](https://github.com/cbgaindia/parsers/blob/master/research/layout_detection_research.md) 
 - [TableBank](https://github.com/doc-analysis/TableBank)
+- [Camelot](https://github.com/atlanhq/camelot)
 
 ## Language detection
 
