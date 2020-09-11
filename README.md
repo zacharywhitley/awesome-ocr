@@ -1,4 +1,4 @@
-# awesome-ocr
+# Awesome OCR
 
 ## Deskewing and Dewarping
 
@@ -56,6 +56,7 @@
 - https://github.com/ThomasDelteil/HandwrittenTextRecognition_MXNet
 - [SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow.
 - [handwriting-ocr](https://github.com/Breta01/handwriting-ocr) - OCR software for recognition of handwritten text
+- https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet
 
 ## Tables
 
@@ -276,7 +277,6 @@ A curated list of resources dedicated to scene text localization and recognition
 ## misc
 - [ocrodeg](https://github.com/NVlabs/ocrodeg) - a small Python library implementing document image degradation for data augmentation for handwriting recognition and OCR applications.
 - [scantailor](https://github.com/scantailor/scantailor) - Scan Tailor is an interactive post-processing tool for scanned pages.
-- https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet
 - https://github.com/jlsutherland/doc2text
 - https://github.com/mauvilsa/nw-page-editor
 - https://transkribus.eu/Transkribus/
