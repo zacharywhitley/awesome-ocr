@@ -64,6 +64,7 @@
 - [table_layout_detection_research](https://github.com/cbgaindia/parsers/blob/master/research/layout_detection_research.md) 
 - [TableBank](https://github.com/doc-analysis/TableBank)
 - [Camelot](https://github.com/atlanhq/camelot)
+- [ocr-table](https://github.com/cseas/ocr-table) - Extract tables from scanned image PDFs using Optical Character Recognition.
 
 ## Language detection
 
@@ -258,12 +259,18 @@ A curated list of resources dedicated to scene text localization and recognition
 
 ## Pre OCR Processing
 - [ajgalleo/document-image-binarization](https://github.com/ajgallego/document-image-binarization)
+- [PRLib](https://github.com/leha-bot/PRLib) - Pre-Recognize Library - library with algorithms for improving OCR quality.
 
 ## Post OCR Correction
 
 - [KBNLresearch/ochre](https://github.com/KBNLresearch/ochre) - Toolbox for OCR post-correction
 - [cisocrgroup/PoCoTo](https://github.com/cisocrgroup/PoCoTo) - The CIS OCR PostCorrectionTool
 - [afterscan](http://www.afterscan.com/) 
+
+## Benchmarks
+- [TedEval](https://github.com/clovaai/TedEval)
+- [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods.
+- [dinglehopper](https://github.com/qurator-spk/dinglehopper) - dinglehopper is an OCR evaluation tool and reads ALTO, PAGE and text files.
 
 ## misc
 - [ocrodeg](https://github.com/NVlabs/ocrodeg) - a small Python library implementing document image degradation for data augmentation for handwriting recognition and OCR applications.
@@ -274,14 +281,9 @@ A curated list of resources dedicated to scene text localization and recognition
 - https://transkribus.eu/Transkribus/
 - http://projectnaptha.com/
 - https://github.com/4lex4/scantailor-advanced
-- [PRLib](https://github.com/leha-bot/PRLib) - Pre-Recognize Library - library with algorithms for improving OCR quality.
-- [ocr-fileformat](https://github.com/UB-Mannheim/ocr-fileformat) - Validate and transform various OCR file formats (hOCR, ALTO, PAGE, FineReader)
 - [open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
 - [ocrserver](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well
 - [cosc428-structor](https://github.com/chadoliver/cosc428-structor) - ~1000 book pages + OpenCV + python = page regions identified as paragraphs, lines, images, captions, etc.
 - [nidaba](https://github.com/openphilology/nidaba/) - An expandable and scalable OCR pipeline
-- [ocr-table](https://github.com/cseas/ocr-table) - Extract tables from scanned image PDFs using Optical Character Recognition.
 - https://github.com/MaybeShewill-CV/CRNN_Tensorflow
-- [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods.
-- [dinglehopper](https://github.com/qurator-spk/dinglehopper) - dinglehopper is an OCR evaluation tool and reads ALTO, PAGE and text files.
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)
