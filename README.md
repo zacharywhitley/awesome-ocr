@@ -66,6 +66,7 @@
 - [TableBank](https://github.com/doc-analysis/TableBank)
 - [Camelot](https://github.com/atlanhq/camelot)
 - [ocr-table](https://github.com/cseas/ocr-table) - Extract tables from scanned image PDFs using Optical Character Recognition.
+- [ExtractTable-py](https://github.com/ExtractTable/ExtractTable-py)
 
 ## Language detection
 
