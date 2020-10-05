@@ -67,6 +67,7 @@
 - [Camelot](https://github.com/atlanhq/camelot)
 - [ocr-table](https://github.com/cseas/ocr-table) - Extract tables from scanned image PDFs using Optical Character Recognition.
 - [ExtractTable-py](https://github.com/ExtractTable/ExtractTable-py)
+- [image-table-ocr](https://github.com/eihli/image-table-ocr)
 
 ## Language detection
 
