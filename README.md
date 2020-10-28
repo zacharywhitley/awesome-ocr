@@ -56,7 +56,8 @@
 - https://github.com/ThomasDelteil/HandwrittenTextRecognition_MXNet
 - [SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow.
 - [handwriting-ocr](https://github.com/Breta01/handwriting-ocr) - OCR software for recognition of handwritten text
-- https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet
+- [AWSLabs: handwritten text regognition for Apache MXNet](https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet)
+- [vloison/Handwritten_Text_Recognition](https://github.com/vloison/Handwritten_Text_Recognition)
 
 ## Tables
 
