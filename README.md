@@ -58,6 +58,8 @@
 - [handwriting-ocr](https://github.com/Breta01/handwriting-ocr) - OCR software for recognition of handwritten text
 - [AWSLabs: handwritten text regognition for Apache MXNet](https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet)
 - [vloison/Handwritten_Text_Recognition](https://github.com/vloison/Handwritten_Text_Recognition)
+- https://github.com/sushant097/Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow
+- https://github.com/qurator-spk/sbb_textline_detection
 
 ## Tables
 
