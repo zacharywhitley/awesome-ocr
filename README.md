@@ -61,7 +61,7 @@
 - https://github.com/sushant097/Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow
 - https://github.com/qurator-spk/sbb_textline_detection
 
-## Tables
+## Table detection
 
 - [TreeStructure](https://github.com/HazyResearch/TreeStructure) - Table Extraction Tool
 - [TableTrainNet](https://github.com/mawanda-jun/TableTrainNet) - Table recognition inside douments using neural networks.
@@ -232,13 +232,12 @@ A curated list of resources dedicated to scene text localization and recognition
 - https://github.com/soumendra/awesome-ocr
 - [chongyangtao/Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition) - Papers and datasets
 
-## Proprietary Engines
+## Proprietary OCR Engines
 - [ABBYY](https://www.abbyy.com/en-us/)
 - [Omnipage](https://www.nuance.com/print-capture-and-pdf-solutions.html)
 - [Clova.ai](https://demo.ocr.clova.ai/)
 
 ## File formats and tools
-
 - [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files
 - hocr
 - [alto](https://github.com/altoxml)
@@ -269,6 +268,7 @@ A curated list of resources dedicated to scene text localization and recognition
 ## Pre OCR Processing
 - [ajgalleo/document-image-binarization](https://github.com/ajgallego/document-image-binarization)
 - [PRLib](https://github.com/leha-bot/PRLib) - Pre-Recognize Library - library with algorithms for improving OCR quality.
+- [sbb_binarization](https://github.com/qurator-spk/sbb_binarization) - 
 
 ## Post OCR Correction
 
