@@ -82,7 +82,6 @@
 ## Text detection and localization
 - [crpn](https://github.com/xhzdeng/crpn)
 - [PAN-PSEnet](https://github.com/rahzaazhar/PAN-PSEnet)
-- [FOTS](https://github.com/xieyufei1993/FOTS) - An Implementation of the FOTS: Fast Oriented Text Spotting with a Unified Network.
 - [Scene-Text-Detection-with-SPECNET](https://github.com/AirBernard/Scene-Text-Detection-with-SPCNET) - Repository for Scene Text Detection with Supervised Pyramid Context Network with tensorflow.
 - [Character-Region-Awareness-for-Text-Detection](https://github.com/guruL/Character-Region-Awareness-for-Text-Detection-)
 - [Real-time-Scene-Text-Detection-and-Recognition-System](https://github.com/fnzhan/Real-time-Scene-Text-Detection-and-Recognition-System) - End-to-end pipeline for real-time scene text detection and recognition.
@@ -104,7 +103,6 @@
 - [HsiehYiChia/Scene-text-recognition](https://github.com/HsiehYiChia/Scene-text-recognition) - Scene text detection and recognition based on Extremal Region(ER)
 - [tensorflow_PSENet](https://github.com/liuheng92/tensorflow_PSENet) - This is a tensorflow re-implementation of PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network.
 - [R2CNN_Faster-RCNN_Tensorflow](https://github.com/DetectionTeamUCAS/R2CNN_Faster-RCNN_Tensorflow) - Rotational region detection based on Faster-RCNN.
-- [FOTS](https://github.com/xieyufei1993/FOTS) - An Implementation of the FOTS: Fast Oriented Text Spotting with a Unified Network.
 - [corner](https://github.com/lvpengyuan/corner) - Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation
 - [Corner_Segmentation_TextDetection](https://github.com/JK-Rao/Corner_Segmentation_TextDetection) - Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation.
 - [TextSnake.pytorch](https://github.com/princewang1994/TextSnake.pytorch) - A PyTorch implementation of ECCV2018 Paper: TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes
@@ -120,6 +118,9 @@
 - [tensorflow-TextMountain](https://github.com/liny23/tensorflow-TextMountain) - TextMountain: Accurate Scene Text Detection via Instance Segmentation
 - [Bartzi/see](https://github.com/Bartzi/see) - Code for the AAAI 2018 publication "SEE: Towards Semi-Supervised End-to-End Scene Text Recognition"
 - [bgshih/aster](https://github.com/bgshih/aster) - Recognizing cropped text in natural images.
+### FOTS
+- [FOTS](https://github.com/xieyufei1993/FOTS) - An Implementation of the FOTS: Fast Oriented Text Spotting with a Unified Network.
+- [FOTS_OCR](https://github.com/Masao-Taketani/FOTS_OCR) 
 ### CTPN
 - [text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)
 - [yizt/keras-ctpn](https://github.com/yizt/keras-ctpn)
