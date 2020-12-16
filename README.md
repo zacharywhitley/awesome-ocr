@@ -52,6 +52,7 @@
 
 ## Handwritten
 
+- https://github.com/0x454447415244/HandwritingRecognitionSystem
 - https://github.com/SparshaSaha/Handwritten-Number-Recognition-With-Image-Segmentation
 - https://github.com/ThomasDelteil/HandwrittenTextRecognition_MXNet
 - [SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow.
