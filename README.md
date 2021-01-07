@@ -81,6 +81,7 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
+- [AttentionOCR](https://github.com/zhang0jhon/AttentionOCR)
 - [crpn](https://github.com/xhzdeng/crpn)
 - [PAN-PSEnet](https://github.com/rahzaazhar/PAN-PSEnet)
 - [Scene-Text-Detection-with-SPECNET](https://github.com/AirBernard/Scene-Text-Detection-with-SPCNET) - Repository for Scene Text Detection with Supervised Pyramid Context Network with tensorflow.
