@@ -51,6 +51,7 @@
 - https://github.com/doxakis/form-segmentation
 
 ## Handwritten
+- https://github.com/arthurflor23/handwritten-text-recognition
 - https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet
 - https://github.com/0x454447415244/HandwritingRecognitionSystem
 - https://github.com/SparshaSaha/Handwritten-Number-Recognition-With-Image-Segmentation
