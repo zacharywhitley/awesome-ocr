@@ -82,6 +82,7 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
+- [CUTIE](https://github.com/vsymbol/CUTIE)
 - [AttentionOCR](https://github.com/zhang0jhon/AttentionOCR)
 - [crpn](https://github.com/xhzdeng/crpn)
 - [PAN-PSEnet](https://github.com/rahzaazhar/PAN-PSEnet)
