@@ -65,6 +65,7 @@
 
 ## Table detection
 
+- [image-table-ocr](https://github.com/eihli/image-table-ocr)
 - [TreeStructure](https://github.com/HazyResearch/TreeStructure) - Table Extraction Tool
 - [TableTrainNet](https://github.com/mawanda-jun/TableTrainNet) - Table recognition inside douments using neural networks.
 - [table_layout_detection_research](https://github.com/cbgaindia/parsers/blob/master/research/layout_detection_research.md) 
