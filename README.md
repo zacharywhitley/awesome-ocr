@@ -65,6 +65,7 @@
 
 ## Table detection
 
+- [TableNet](https://github.com/jainammm/TableNet) - Unofficial implementation of ICDAR 2019 paper : TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images.
 - [image-table-ocr](https://github.com/eihli/image-table-ocr)
 - [TreeStructure](https://github.com/HazyResearch/TreeStructure) - Table Extraction Tool
 - [TableTrainNet](https://github.com/mawanda-jun/TableTrainNet) - Table recognition inside douments using neural networks.
