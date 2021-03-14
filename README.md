@@ -163,6 +163,7 @@
 - [typefont](https://github.com/Vasile-Peste/Typefont) - The first open-source library that detects the font of a text in a image. 
 
 ## Optical Character Recognition Engines and Frameworks
+- [xiaofengShi/CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [Urdu-Ocr](https://github.com/HassamChundrigar/Urdu-Ocr)
 - [ocr.pytorch](https://github.com/courao/ocr.pytorch)
