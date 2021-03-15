@@ -295,9 +295,9 @@ A curated list of resources dedicated to scene text localization and recognition
 ## misc
 - [ocrodeg](https://github.com/NVlabs/ocrodeg) - a small Python library implementing document image degradation for data augmentation for handwriting recognition and OCR applications.
 - [scantailor](https://github.com/scantailor/scantailor) - Scan Tailor is an interactive post-processing tool for scanned pages.
-- https://github.com/jlsutherland/doc2text
-- https://github.com/mauvilsa/nw-page-editor
-- https://transkribus.eu/Transkribus/
+- [jlsutherland/doc2text](https://github.com/jlsutherland/doc2text) - help researchers fix these errors and extract the highest quality text from their pdfs as possible.
+- [mauvilsa/nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files.
+- [Transkribus](https://transkribus.eu/Transkribus/) - Transkribus is a comprehensive platform for the digitisation, AI-powered recognition, transcription and searching of historical documents.
 - http://projectnaptha.com/
 - https://github.com/4lex4/scantailor-advanced
 - [open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
