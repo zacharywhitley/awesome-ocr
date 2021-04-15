@@ -85,6 +85,9 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
+- [Decoupled-attention-network](https://github.com/Wang-Tianwei/Decoupled-attention-network)
+- [Bi-STET](https://github.com/MauritsBleeker/Bi-STET)
+- [kiss](https://github.com/Bartzi/kiss)
 - [Deformable Text Recognition](https://github.com/Alpaca07/dtr)
 - [MaskTextSpotter](https://github.com/MhLiao/MaskTextSpotter)
 - [CUTIE](https://github.com/vsymbol/CUTIE)
@@ -279,6 +282,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [Sanster/text_renderer](https://github.com/Sanster/text_renderer) - https://github.com/Sanster/text_renderer
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - https://github.com/Belval/TextRecognitionDataGenerator
 - [awesome-SynthText](https://github.com/TianzhongSong/awesome-SynthText)
+- [Text-Image-Augmentation](https://github.com/Canjie-Luo/Text-Image-Augmentation)
 
 ## Pre OCR Processing
 - [ajgalleo/document-image-binarization](https://github.com/ajgallego/document-image-binarization)
