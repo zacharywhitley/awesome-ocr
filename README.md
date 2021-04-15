@@ -85,6 +85,7 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
+- [AutoSTR](https://github.com/AutoML-4Paradigm/AutoSTR)
 - [Decoupled-attention-network](https://github.com/Wang-Tianwei/Decoupled-attention-network)
 - [Bi-STET](https://github.com/MauritsBleeker/Bi-STET)
 - [kiss](https://github.com/Bartzi/kiss)
