@@ -85,6 +85,9 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
+- [seed](https://github.com/Pay20Y/SEED)
+- [vedastr](https://github.com/Media-Smart/vedastr)
+- [Scatter](https://github.com/phantrdat/cvpr20-scatter-text-recognizer)
 - [AutoSTR](https://github.com/AutoML-4Paradigm/AutoSTR)
 - [Decoupled-attention-network](https://github.com/Wang-Tianwei/Decoupled-attention-network)
 - [Bi-STET](https://github.com/MauritsBleeker/Bi-STET)
@@ -284,6 +287,8 @@ A curated list of resources dedicated to scene text localization and recognition
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - https://github.com/Belval/TextRecognitionDataGenerator
 - [awesome-SynthText](https://github.com/TianzhongSong/awesome-SynthText)
 - [Text-Image-Augmentation](https://github.com/Canjie-Luo/Text-Image-Augmentation)
+- [UnrealText](https://github.com/Jyouhou/UnrealText)
+- [SynthText_Chinese_version](https://github.com/JarveeLee/SynthText_Chinese_version)
 
 ## Pre OCR Processing
 - [ajgalleo/document-image-binarization](https://github.com/ajgallego/document-image-binarization)
