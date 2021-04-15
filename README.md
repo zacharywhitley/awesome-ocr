@@ -85,6 +85,7 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
+- [Deformable Text Resolution](https://github.com/Alpaca07/dtr)
 - [MaskTextSpotter](https://github.com/MhLiao/MaskTextSpotter)
 - [CUTIE](https://github.com/vsymbol/CUTIE)
 - [AttentionOCR](https://github.com/zhang0jhon/AttentionOCR)
