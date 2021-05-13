@@ -86,6 +86,7 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
+- [cvpr20-scatter-text-recognizer](https://github.com/phantrdat/cvpr20-scatter-text-recognizer)
 - [MASTER-TF](https://github.com/jiangxiluning/MASTER-TF)
 - [seed](https://github.com/Pay20Y/SEED)
 - [vedastr](https://github.com/Media-Smart/vedastr)
