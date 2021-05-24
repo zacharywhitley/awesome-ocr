@@ -263,6 +263,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [ABBYY](https://www.abbyy.com/en-us/)
 - [Omnipage](https://www.nuance.com/print-capture-and-pdf-solutions.html)
 - [Clova.ai](https://demo.ocr.clova.ai/)
+- [Konfuzio](https://deep-tech.com)
 
 ## File formats and tools
 - [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files
