@@ -177,6 +177,7 @@
 - [typefont](https://github.com/Vasile-Peste/Typefont) - The first open-source library that detects the font of a text in a image. 
 
 ## Optical Character Recognition Engines and Frameworks
+- [MMOCR](https://github.com/open-mmlab/mmocr)
 - [doctr](https://github.com/mindee/doctr)
 - [Master OCR](https://github.com/jiangxiluning/MASTER-TF)
 - [xiaofengShi/CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR)
