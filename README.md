@@ -275,6 +275,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [AWS Textracet](https://aws.amazon.com/textract/)
 - [Nanonets](https://nanonets.com/ocr-api/)
 - [docparser](https://docparser.com/
+- [ocrolus](https://www.ocrolus.com/)
 
 ## File formats and tools
 - [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files
