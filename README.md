@@ -269,6 +269,9 @@ A curated list of resources dedicated to scene text localization and recognition
 - [Clova.ai](https://demo.ocr.clova.ai/)
 - [Konfuzio](https://konfuzio.com/en/)
 
+## Cloud based OCR Engines (SaaS)
+- [thehive.ai](https://thehive.ai/hive-ocr-solutions)
+
 ## File formats and tools
 - [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files
 - hocr
