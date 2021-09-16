@@ -87,6 +87,7 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
+- [TextFuseNet](https://github.com/ying09/TextFuseNet)
 - [SATRN](https://github.com/clovaai/SATRN)
 - [cvpr20-scatter-text-recognizer](https://github.com/phantrdat/cvpr20-scatter-text-recognizer)
 - [MASTER-TF](https://github.com/jiangxiluning/MASTER-TF)
