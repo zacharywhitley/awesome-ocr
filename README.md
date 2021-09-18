@@ -325,6 +325,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [TedEval](https://github.com/clovaai/TedEval)
 - [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods.
 - [dinglehopper](https://github.com/qurator-spk/dinglehopper) - dinglehopper is an OCR evaluation tool and reads ALTO, PAGE and text files.
+- [CLEval](https://github.com/clovaai/CLEval)
 
 ## misc
 - [ocrodeg](https://github.com/NVlabs/ocrodeg) - a small Python library implementing document image degradation for data augmentation for handwriting recognition and OCR applications.
