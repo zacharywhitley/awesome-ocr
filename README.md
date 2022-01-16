@@ -298,6 +298,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - https://github.com/cs-chan/Total-Text-Dataset
 - [scenetext](http://www.robots.ox.ac.uk/~vgg/data/scenetext/) - This is a synthetically generated dataset, in which word instances are placed in natural scene images, while taking into account the scene layout.
 - [Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)
+- [ocr-open-dataset](https://github.com/xylcbd/ocr-open-dataset)
 
 ## Data augmentation and Synthetic data generation
 - [DocCreator](http://doc-creator.labri.fr/) - DIAR software for synthetic document image and groundtruth generation, with various degradation models for data augmentation.
