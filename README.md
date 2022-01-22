@@ -92,11 +92,11 @@
 - [cvpr20-scatter-text-recognizer](https://github.com/phantrdat/cvpr20-scatter-text-recognizer) - ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Litman_SCATTER_Selective_Context_Attentional_Scene_Text_Recognizer_CVPR_2020_paper.pdf)) - Unofficial implementation of CVPR 2020 paper "SCATTER: Selective Context Attentional Scene Text Recognizer"
 - [MASTER-TF](https://github.com/jiangxiluning/MASTER-TF) - ([paper](https://arxiv.org/abs/1910.02562)) - TensorFlow reimplementation of "MASTER: Multi-Aspect Non-local Network for Scene Text Recognition" (Pattern Recognition 2021).
 - [seed](https://github.com/Pay20Y/SEED) - This is the implementation of the paper "SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition" 
-- [vedastr](https://github.com/Media-Smart/vedastr)
-- [Scatter](https://github.com/phantrdat/cvpr20-scatter-text-recognizer)
-- [AutoSTR](https://github.com/AutoML-4Paradigm/AutoSTR)
-- [Decoupled-attention-network](https://github.com/Wang-Tianwei/Decoupled-attention-network)
-- [Bi-STET](https://github.com/MauritsBleeker/Bi-STET)
+- [vedastr](https://github.com/Media-Smart/vedastr) - A scene text recognition toolbox based on PyTorch
+- [Scatter](https://github.com/phantrdat/cvpr20-scatter-text-recognizer) - ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Litman_SCATTER_Selective_Context_Attentional_Scene_Text_Recognizer_CVPR_2020_paper.pdf)) Unofficial implementation of CVPR 2020 paper "SCATTER: Selective Context Attentional Scene Text Recognizer"
+- [AutoSTR](https://github.com/AutoML-4Paradigm/AutoSTR) - ([paper:2020](https://arxiv.org/pdf/2003.06567.pdf)) Efficient Backbone Search for Scene Text Recognition
+- [Decoupled-attention-network](https://github.com/Wang-Tianwei/Decoupled-attention-network) - ([paper](https://arxiv.org/abs/1912.10205)) Pytorch implementation for "Decoupled attention network for text recognition".
+- [Bi-STET](https://github.com/MauritsBleeker/Bi-STET) - ([paper](https://arxiv.org/pdf/1912.03656.pdf)) Implementation of Bidirectional Scene Text Recognition with a Single Decoder
 - [kiss](https://github.com/Bartzi/kiss)
 - [Deformable Text Recognition](https://github.com/Alpaca07/dtr)
 - [MaskTextSpotter](https://github.com/MhLiao/MaskTextSpotter)
