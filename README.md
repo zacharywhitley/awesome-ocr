@@ -141,15 +141,20 @@
 - [Bartzi/see](https://github.com/Bartzi/see) - Code for the AAAI 2018 publication "SEE: Towards Semi-Supervised End-to-End Scene Text Recognition"
 - [bgshih/aster](https://github.com/bgshih/aster) - Recognizing cropped text in natural images.
 - [ReceiptParser](https://github.com/ReceiptManager/receipt-parser) - A fuzzy receipt parser written in Python.
+
 ### FOTS
 - [FOTS](https://github.com/xieyufei1993/FOTS) - An Implementation of the FOTS: Fast Oriented Text Spotting with a Unified Network.
 - [FOTS_OCR](https://github.com/Masao-Taketani/FOTS_OCR) 
+
 ### CTPN
+
 - [text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)
 - [yizt/keras-ctpn](https://github.com/yizt/keras-ctpn)
 - [tianzhi0549/CTPN](https://github.com/tianzhi0549/CTPN) - Detecting Text in Natural Image with Connectionist Text Proposal Network
-### EAST
-- [EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
+
+### EAST [paper](https://arxiv.org/abs/1704.03155)
+
+- [EAST](https://github.com/argman/EAST)(official) - A tensorflow implementation of EAST text detector
 - [AdvancedEAST](https://github.com/huoyijie/AdvancedEAST) - AdvancedEAST is an algorithm used for Scene image text detect, which is primarily based on EAST, and the significant improvement was also made, which make long text predictions more accurate.
 - [kurapan/EAST](https://github.com/kurapan/EAST) Implementation of EAST scene text detector in Keras
 - [songdejia/EAST](https://github.com/songdejia/EAST) - This is a pytorch re-implementation of EAST: An Efficient and Accurate Scene Text Detector.
@@ -158,11 +163,13 @@
 - [SakuraRiven/EAST](https://github.com/SakuraRiven/EAST)
 - [EAST-Detector-for-text-detection-using-OpenCV](https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV) - Text Detection from images using OpenCV
 - [easy-EAST](https://github.com/che220/easy-EAST)
+
 ### CRAFT
 - [pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition) 
 - [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch) - Pytorch implementation of CRAFT text detector.
 - [CRAFT-Reimplementation](https://github.com/backtime92/CRAFT-Reimplementation)
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - PyTorch implementation of CRAFT
+
 ### TextBoxes
 - [TextBoxes_plusplus](https://github.com/MhLiao/TextBoxes_plusplus) TextBoxes++: A Single-Shot Oriented Scene Text Detector
 - [TextBoxes-TensorFlow](https://github.com/gxd1994/TextBoxes-TensorFlow) - TextBoxes re-implement using tensorflow
