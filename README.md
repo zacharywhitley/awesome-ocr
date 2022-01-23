@@ -169,6 +169,7 @@
 - [pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition) 
 - [CRAFT-Reimplementation](https://github.com/backtime92/CRAFT-Reimplementation)
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - PyTorch implementation of CRAFT
+- [YongWookHa/craft-text-detector](https://github.com/YongWookHa/craft-text-detector)
 
 ### TextBoxes [paper:2016](https://arxiv.org/abs/1611.06779)
 - [TextBoxes (official)](https://github.com/MhLiao/TextBoxes)
