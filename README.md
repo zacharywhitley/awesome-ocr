@@ -87,7 +87,7 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
-- [TextFuseNet](https://github.com/ying09/TextFuseNet) - ([paper](https://www.ijcai.org/Proceedings/2020/72)) A PyTorch implementation of "TextFuseNet: Scene Text Detection with Richer Fused Features".
+- [TextFuseNet](https://github.com/ying09/TextFuseNet) - ([paper:2020](https://www.ijcai.org/Proceedings/2020/72)) A PyTorch implementation of "TextFuseNet: Scene Text Detection with Richer Fused Features".
 - [SATRN](https://github.com/clovaai/SATRN)- ([paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Lee_On_Recognizing_Texts_of_Arbitrary_Shapes_With_2D_Self-Attention_CVPRW_2020_paper.pdf)) - Official Tensorflow Implementation of Self-Attention Text Recognition Network (SATRN) (CVPR Workshop WTDDLE 2020).
 - [cvpr20-scatter-text-recognizer](https://github.com/phantrdat/cvpr20-scatter-text-recognizer) - ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Litman_SCATTER_Selective_Context_Attentional_Scene_Text_Recognizer_CVPR_2020_paper.pdf)) - Unofficial implementation of CVPR 2020 paper "SCATTER: Selective Context Attentional Scene Text Recognizer"
 - [MASTER-TF](https://github.com/jiangxiluning/MASTER-TF) - ([paper](https://arxiv.org/abs/1910.02562)) - TensorFlow reimplementation of "MASTER: Multi-Aspect Non-local Network for Scene Text Recognition" (Pattern Recognition 2021).
