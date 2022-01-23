@@ -153,7 +153,6 @@
 - [tianzhi0549/CTPN](https://github.com/tianzhi0549/CTPN) - Detecting Text in Natural Image with Connectionist Text Proposal Network
 
 ### EAST [paper](https://arxiv.org/abs/1704.03155)
-
 - [EAST](https://github.com/argman/EAST)(official) - A tensorflow implementation of EAST text detector
 - [AdvancedEAST](https://github.com/huoyijie/AdvancedEAST) - AdvancedEAST is an algorithm used for Scene image text detect, which is primarily based on EAST, and the significant improvement was also made, which make long text predictions more accurate.
 - [kurapan/EAST](https://github.com/kurapan/EAST) Implementation of EAST scene text detector in Keras
@@ -164,19 +163,24 @@
 - [EAST-Detector-for-text-detection-using-OpenCV](https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV) - Text Detection from images using OpenCV
 - [easy-EAST](https://github.com/che220/easy-EAST)
 
-### CRAFT
+### CRAFT [paper:2019](https://arxiv.org/pdf/1904.01941.pdf)
+- [CRAFT-pytorch (official)](https://github.com/clovaai/CRAFT-pytorch) - Pytorch implementation of CRAFT text detector.
+- [CRAFT-Remade](https://github.com/autonise/CRAFT-Remade)
 - [pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition) 
-- [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch) - Pytorch implementation of CRAFT text detector.
 - [CRAFT-Reimplementation](https://github.com/backtime92/CRAFT-Reimplementation)
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - PyTorch implementation of CRAFT
 
-### TextBoxes
-- [TextBoxes_plusplus](https://github.com/MhLiao/TextBoxes_plusplus) TextBoxes++: A Single-Shot Oriented Scene Text Detector
+### TextBoxes [paper:2016](https://arxiv.org/abs/1611.06779)
+- [TextBoxes (official)](https://github.com/MhLiao/TextBoxes)
 - [TextBoxes-TensorFlow](https://github.com/gxd1994/TextBoxes-TensorFlow) - TextBoxes re-implement using tensorflow
 - [zj463261929/TextBoxes](https://github.com/zj463261929/TextBoxes) - TextBoxes: A Fast Text Detector with a Single Deep Neural Network
-- [Shun14/TextBoxes_plusplus_Tensorflo](https://github.com/Shun14/TextBoxes_plusplus_Tensorflow) - Textboxes_plusplus implementation with Tensorflow (python)
 - [shinjayne/textboxes](https://github.com/shinjayne/textboxes) - Textboxes implementation with Tensorflow (python)
 - [shinTB](https://github.com/shinjayne/shinTB) - Textboxes : Image Text Detection Model : python package (tensorflow)
+
+### TextBoxes++ [paper:2018](https://arxiv.org/abs/1801.02765)
+- [TextBoxes_plusplus (offical)](https://github.com/MhLiao/TextBoxes_plusplus) TextBoxes++: A Single-Shot Oriented Scene Text Detector
+- [Shun14/TextBoxes_plusplus_Tensorflo](https://github.com/Shun14/TextBoxes_plusplus_Tensorflow) - Textboxes_plusplus implementation with Tensorflow (python)
+
 ### PSENet
 - [tensorflow_PSENet](https://github.com/liuheng92/tensorflow_PSENet) - PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network
 - [PSENet](https://github.com/whai362/PSENet) - Shape Robust Text Detection with Progressive Scale Expansion Network.
