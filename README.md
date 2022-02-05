@@ -141,6 +141,7 @@
 - [Bartzi/see](https://github.com/Bartzi/see) - Code for the AAAI 2018 publication "SEE: Towards Semi-Supervised End-to-End Scene Text Recognition"
 - [bgshih/aster](https://github.com/bgshih/aster) - Recognizing cropped text in natural images.
 - [ReceiptParser](https://github.com/ReceiptManager/receipt-parser) - A fuzzy receipt parser written in Python.
+- [AdelaiDet](https://github.com/aim-uofa/AdelaiDet)
 
 ### FOTS
 - [FOTS](https://github.com/xieyufei1993/FOTS) - An Implementation of the FOTS: Fast Oriented Text Spotting with a Unified Network.
