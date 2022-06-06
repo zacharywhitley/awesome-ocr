@@ -87,23 +87,22 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
+- [MASTER-TF](https://github.com/jiangxiluning/MASTER-TF) - ([paper:2021](https://arxiv.org/abs/1910.02562)) - TensorFlow reimplementation of "MASTER: Multi-Aspect Non-local Network for Scene Text Recognition" (Pattern Recognition 2021).
 - [MaskTextSpotterV3](https://github.com/MhLiao/MaskTextSpotterV3) - ([paper:2020](https://arxiv.org/abs/2007.09482)) -  Mask TextSpotter v3 is an end-to-end trainable scene text spotter that adopts a Segmentation Proposal Network (SPN) instead of an RPN.
 - [TextFuseNet](https://github.com/ying09/TextFuseNet) - ([paper:2020](https://www.ijcai.org/Proceedings/2020/72)) A PyTorch implementation of "TextFuseNet: Scene Text Detection with Richer Fused Features".
 - [SATRN](https://github.com/clovaai/SATRN)- ([paper:2020](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Lee_On_Recognizing_Texts_of_Arbitrary_Shapes_With_2D_Self-Attention_CVPRW_2020_paper.pdf)) - Official Tensorflow Implementation of Self-Attention Text Recognition Network (SATRN) (CVPR Workshop WTDDLE 2020).
-- [cvpr20-scatter-text-recognizer](https://github.com/phantrdat/cvpr20-scatter-text-recognizer) - ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Litman_SCATTER_Selective_Context_Attentional_Scene_Text_Recognizer_CVPR_2020_paper.pdf)) - Unofficial implementation of CVPR 2020 paper "SCATTER: Selective Context Attentional Scene Text Recognizer"
-- [MASTER-TF](https://github.com/jiangxiluning/MASTER-TF) - ([paper](https://arxiv.org/abs/1910.02562)) - TensorFlow reimplementation of "MASTER: Multi-Aspect Non-local Network for Scene Text Recognition" (Pattern Recognition 2021).
-- [seed](https://github.com/Pay20Y/SEED) - This is the implementation of the paper "SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition" 
+- [cvpr20-scatter-text-recognizer](https://github.com/phantrdat/cvpr20-scatter-text-recognizer) - ([paper:2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Litman_SCATTER_Selective_Context_Attentional_Scene_Text_Recognizer_CVPR_2020_paper.pdf)) - Unofficial implementation of CVPR 2020 paper "SCATTER: Selective Context Attentional Scene Text Recognizer"
+- [seed](https://github.com/Pay20Y/SEED) - ([paper:2020[https://arxiv.org/pdf/2005.10977.pdf]) - This is the implementation of the paper "SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition" 
 - [vedastr](https://github.com/Media-Smart/vedastr) - A scene text recognition toolbox based on PyTorch
-- [Scatter](https://github.com/phantrdat/cvpr20-scatter-text-recognizer) - ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Litman_SCATTER_Selective_Context_Attentional_Scene_Text_Recognizer_CVPR_2020_paper.pdf)) Unofficial implementation of CVPR 2020 paper "SCATTER: Selective Context Attentional Scene Text Recognizer"
 - [AutoSTR](https://github.com/AutoML-4Paradigm/AutoSTR) - ([paper:2020](https://arxiv.org/pdf/2003.06567.pdf)) Efficient Backbone Search for Scene Text Recognition
-- [Decoupled-attention-network](https://github.com/Wang-Tianwei/Decoupled-attention-network) - ([paper](https://arxiv.org/abs/1912.10205)) Pytorch implementation for "Decoupled attention network for text recognition".
-- [Bi-STET](https://github.com/MauritsBleeker/Bi-STET) - ([paper](https://arxiv.org/pdf/1912.03656.pdf)) Implementation of Bidirectional Scene Text Recognition with a Single Decoder
-- [kiss](https://github.com/Bartzi/kiss)
-- [Deformable Text Recognition](https://github.com/Alpaca07/dtr)
-- [MaskTextSpotter](https://github.com/MhLiao/MaskTextSpotter)
-- [CUTIE](https://github.com/vsymbol/CUTIE)
-- [AttentionOCR](https://github.com/zhang0jhon/AttentionOCR)
-- [crpn](https://github.com/xhzdeng/crpn)
+- [Decoupled-attention-network](https://github.com/Wang-Tianwei/Decoupled-attention-network) - ([paper:2019](https://arxiv.org/abs/1912.10205)) Pytorch implementation for "Decoupled attention network for text recognition".
+- [Bi-STET](https://github.com/MauritsBleeker/Bi-STET) - ([paper:2020](https://arxiv.org/pdf/1912.03656.pdf)) Implementation of Bidirectional Scene Text Recognition with a Single Decoder
+- [kiss](https://github.com/Bartzi/kiss) - ([paper:2019](https://arxiv.org/abs/1911.08400)
+- [Deformable Text Recognition](https://github.com/Alpaca07/dtr) - ([paper:2019](https://ieeexplore.ieee.org/abstract/document/9064428))
+- [MaskTextSpotter](https://github.com/MhLiao/MaskTextSpotter) - ([paper:2019](https://ieeexplore.ieee.org/document/8812908))
+- [CUTIE](https://github.com/vsymbol/CUTIE) - ([paper:2019](https://arxiv.org/abs/1903.12363v4)
+- [AttentionOCR](https://github.com/zhang0jhon/AttentionOCR) - ([paper:2019](https://arxiv.org/abs/1912.04561))
+- [crpn](https://github.com/xhzdeng/crpn) - ([paper:2019](https://arxiv.org/abs/1804.02690))
 - [PAN-PSEnet](https://github.com/rahzaazhar/PAN-PSEnet)
 - [Scene-Text-Detection-with-SPECNET](https://github.com/AirBernard/Scene-Text-Detection-with-SPCNET) - Repository for Scene Text Detection with Supervised Pyramid Context Network with tensorflow.
 - [Character-Region-Awareness-for-Text-Detection](https://github.com/guruL/Character-Region-Awareness-for-Text-Detection-)
