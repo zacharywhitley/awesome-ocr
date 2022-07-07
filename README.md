@@ -173,12 +173,12 @@
 
 ### CRAFT [paper:2019](https://arxiv.org/pdf/1904.01941.pdf)
 - [CRAFT-pytorch (official)](https://github.com/clovaai/CRAFT-pytorch) - Pytorch implementation of CRAFT text detector.
-- [CRAFT-Remade](https://github.com/autonise/CRAFT-Remade)
-- [pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition) 
-- [CRAFT-Reimplementation](https://github.com/backtime92/CRAFT-Reimplementation)
+- [autonise/CRAFT-Remade](https://github.com/autonise/CRAFT-Remade)
+- [s3nh/pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition) 
+- [backtime92/CRAFT-Reimplementation](https://github.com/backtime92/CRAFT-Reimplementation)
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - PyTorch implementation of CRAFT
 - [YongWookHa/craft-text-detector](https://github.com/YongWookHa/craft-text-detector)
-- [keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
+- [faustomorales/keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
 
 ### TextBoxes [paper:2016](https://arxiv.org/abs/1611.06779)
 - [TextBoxes (official)](https://github.com/MhLiao/TextBoxes)
