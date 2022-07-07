@@ -179,6 +179,7 @@
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - PyTorch implementation of CRAFT
 - [YongWookHa/craft-text-detector](https://github.com/YongWookHa/craft-text-detector)
 - [faustomorales/keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
+- [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector)
 
 ### TextBoxes [paper:2016](https://arxiv.org/abs/1611.06779)
 - [TextBoxes (official)](https://github.com/MhLiao/TextBoxes)
