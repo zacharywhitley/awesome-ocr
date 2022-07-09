@@ -161,8 +161,8 @@
 - [tianzhi0549/CTPN](https://github.com/tianzhi0549/CTPN) - Detecting Text in Natural Image with Connectionist Text Proposal Network
 
 ### EAST [paper](https://arxiv.org/abs/1704.03155)
-- [EAST](https://github.com/argman/EAST)(official) - A tensorflow implementation of EAST text detector
-- [AdvancedEAST](https://github.com/huoyijie/AdvancedEAST) - AdvancedEAST is an algorithm used for Scene image text detect, which is primarily based on EAST, and the significant improvement was also made, which make long text predictions more accurate.
+- [EAST](https://github.com/argman/EAST)(official) - (tf1/py2) A tensorflow implementation of EAST text detector
+- [AdvancedEAST](https://github.com/huoyijie/AdvancedEAST) - (tf1/py2) AdvancedEAST is an algorithm used for Scene image text detect, which is primarily based on EAST, and the significant improvement was also made, which make long text predictions more accurate.
 - [kurapan/EAST](https://github.com/kurapan/EAST) Implementation of EAST scene text detector in Keras
 - [songdejia/EAST](https://github.com/songdejia/EAST) - This is a pytorch re-implementation of EAST: An Efficient and Accurate Scene Text Detector.
 - [HaozhengLi/EAST_ICPR](https://github.com/HaozhengLi/EAST_ICPR) - Forked from argman/EAST for the ICPR MTWI 2018 CHALLENGE
