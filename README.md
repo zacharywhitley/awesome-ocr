@@ -328,8 +328,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [DocCreator](http://doc-creator.labri.fr/) - DIAR software for synthetic document image and groundtruth generation, with various degradation models for data augmentation.
 - [Scene-Text-Image-Transformer](https://github.com/Canjie-Luo/Scene-Text-Image-Transformer) - Scene Text Image Transformer
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
-- [Sanster/text_renderer](https://github.com/Sanster/text_renderer) - https://github.com/Sanster/text_renderer
-- [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - https://github.com/Belval/TextRecognitionDataGenerator
+- [Sanster/text_renderer](https://github.com/Sanster/text_renderer)
 - [awesome-SynthText](https://github.com/TianzhongSong/awesome-SynthText)
 - [Text-Image-Augmentation](https://github.com/Canjie-Luo/Text-Image-Augmentation)
 - [UnrealText](https://github.com/Jyouhou/UnrealText)
