@@ -196,7 +196,8 @@
 - [tensorflow_PSENet](https://github.com/liuheng92/tensorflow_PSENet) - PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network
 - [PSENet](https://github.com/whai362/PSENet) - Shape Robust Text Detection with Progressive Scale Expansion Network.
 
-
+## Video Text Spotting
+- [TransDETR](https://github.com/weijiawu/TransDETR)
 
 ## Font detection
 
