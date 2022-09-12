@@ -198,6 +198,7 @@
 
 ## Video Text Spotting
 - [TransDETR](https://github.com/weijiawu/TransDETR)
+- [YORO](https://github.com/hikopensource/DAVAR-Lab-OCR/tree/main/demo/videotext/yoro) ([paper:2021](https://arxiv.org/pdf/1903.03299.pdf))
 
 ## Font detection
 
