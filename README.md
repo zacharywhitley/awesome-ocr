@@ -150,12 +150,11 @@
 - https://github.com/Pxtri2156/AdelaiDet_v2
 - https://github.com/zhubinQAQ/Ins
 
-### FOTS
+### FOTS [paper:2018](https://arxiv.org/pdf/1801.01671.pdf)
 - [FOTS](https://github.com/xieyufei1993/FOTS) - An Implementation of the FOTS: Fast Oriented Text Spotting with a Unified Network.
 - [FOTS_OCR](https://github.com/Masao-Taketani/FOTS_OCR) 
 
-### CTPN
-
+### CTPN [paper:2016](https://arxiv.org/pdf/1609.03605.pdf)
 - [text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)
 - [yizt/keras-ctpn](https://github.com/yizt/keras-ctpn)
 - [tianzhi0549/CTPN](https://github.com/tianzhi0549/CTPN) - Detecting Text in Natural Image with Connectionist Text Proposal Network
@@ -192,7 +191,7 @@
 - [TextBoxes_plusplus (offical)](https://github.com/MhLiao/TextBoxes_plusplus) TextBoxes++: A Single-Shot Oriented Scene Text Detector
 - [Shun14/TextBoxes_plusplus_Tensorflo](https://github.com/Shun14/TextBoxes_plusplus_Tensorflow) - Textboxes_plusplus implementation with Tensorflow (python)
 
-### PSENet
+### PSENet [paper:2018](https://arxiv.org/pdf/1806.02559.pdf)
 - [tensorflow_PSENet](https://github.com/liuheng92/tensorflow_PSENet) - PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network
 - [PSENet](https://github.com/whai362/PSENet) - Shape Robust Text Detection with Progressive Scale Expansion Network.
 
@@ -205,6 +204,7 @@
 - [typefont](https://github.com/Vasile-Peste/Typefont) - The first open-source library that detects the font of a text in a image. 
 
 ## Optical Character Recognition Engines and Frameworks
+- [DAVAR-lab-OCR](https://github.com/hikopensource/davar-lab-ocr)
 - [CRNN.tf2](https://github.com/FLming/CRNN.tf2)
 - [ocr.pytorch](https://github.com/courao/ocr.pytorch)
 - [PytorchOCR](https://github.com/WenmuZhou/PytorchOCR)
