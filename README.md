@@ -304,10 +304,11 @@ A curated list of resources dedicated to scene text localization and recognition
 - [Nanonets](https://nanonets.com/ocr-api/)
 - [docparser](https://docparser.com/
 - [ocrolus](https://www.ocrolus.com/)
+- [Butler Labs](https://www.butlerlabs.ai/)
 
 ## File formats and tools
 - [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files
-- hocr
+- [hocr](http://kba.cloud/hocr-spec/1.2/)
 - [alto](https://github.com/altoxml)
 - [PageXML](https://github.com/PRImA-Research-Lab/PAGE-XML)
 - [ocr-fileformat](https://github.com/UB-Mannheim/ocr-fileformat) - Validate and transform various OCR file formats
