@@ -103,7 +103,6 @@
 - [CUTIE](https://github.com/vsymbol/CUTIE) - ([paper:2019](https://arxiv.org/abs/1903.12363v4)
 - [AttentionOCR](https://github.com/zhang0jhon/AttentionOCR) - ([paper:2019](https://arxiv.org/abs/1912.04561))
 - [crpn](https://github.com/xhzdeng/crpn) - ([paper:2019](https://arxiv.org/abs/1804.02690))
-- [PAN-PSEnet](https://github.com/rahzaazhar/PAN-PSEnet)
 - [Scene-Text-Detection-with-SPECNET](https://github.com/AirBernard/Scene-Text-Detection-with-SPCNET) - Repository for Scene Text Detection with Supervised Pyramid Context Network with tensorflow.
 - [Character-Region-Awareness-for-Text-Detection](https://github.com/guruL/Character-Region-Awareness-for-Text-Detection-)
 - [Real-time-Scene-Text-Detection-and-Recognition-System](https://github.com/fnzhan/Real-time-Scene-Text-Detection-and-Recognition-System) - End-to-end pipeline for real-time scene text detection and recognition.
@@ -123,7 +122,6 @@
 - [Bartzi/stn-ocr](https://github.com/Bartzi/stn-ocr) - Code for the paper STN-OCR: A single Neural Network for Text Detection and Text Recognition
 - [beacandler/R2CNN](https://github.com/beacandler/R2CNN) - caffe re-implementation of R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection
 - [HsiehYiChia/Scene-text-recognition](https://github.com/HsiehYiChia/Scene-text-recognition) - Scene text detection and recognition based on Extremal Region(ER)
-- [tensorflow_PSENet](https://github.com/liuheng92/tensorflow_PSENet) - This is a tensorflow re-implementation of PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network.
 - [R2CNN_Faster-RCNN_Tensorflow](https://github.com/DetectionTeamUCAS/R2CNN_Faster-RCNN_Tensorflow) - Rotational region detection based on Faster-RCNN.
 - [corner](https://github.com/lvpengyuan/corner) - Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation
 - [Corner_Segmentation_TextDetection](https://github.com/JK-Rao/Corner_Segmentation_TextDetection) - Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation.
@@ -134,7 +132,6 @@
 - [SSTD](https://github.com/BestSonny/SSTD) - Single Shot Text Detector with Regional Attention
 - [MORAN_v2](https://github.com/Canjie-Luo/MORAN_v2) - MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition
 - [Curve-Text-Detector](https://github.com/Yuliang-Liu/Curve-Text-Detector) - This repository provides train＆test code, dataset, det.&rec. annotation, evaluation script, annotation tool, and ranking table.
-- [tensorflow_PSENet](https://github.com/liuheng92/tensorflow_PSENet) - This is a tensorflow re-implementation of PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network
 - [HCIILAB/DeRPN](https://github.com/HCIILAB/DeRPN) - A novel region proposal network for more general object detection ( including scene text detection ).
 - [TextField](https://github.com/YukangWang/TextField) - TextField: Learning A Deep Direction Field for Irregular Scene Text Detection (TIP 2019)
 - [tensorflow-TextMountain](https://github.com/liny23/tensorflow-TextMountain) - TextMountain: Accurate Scene Text Detection via Instance Segmentation
@@ -192,7 +189,8 @@
 - [Shun14/TextBoxes_plusplus_Tensorflo](https://github.com/Shun14/TextBoxes_plusplus_Tensorflow) - Textboxes_plusplus implementation with Tensorflow (python)
 
 ### PSENet [paper:2018](https://arxiv.org/pdf/1806.02559.pdf)
-- [tensorflow_PSENet](https://github.com/liuheng92/tensorflow_PSENet) - PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network
+- [tensorflow_PSENet](https://github.com/liuheng92/tensorflow_PSENet) - This is a tensorflow re-implementation of PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network
+- [PAN-PSEnet](https://github.com/rahzaazhar/PAN-PSEnet)
 - [PSENet](https://github.com/whai362/PSENet) - Shape Robust Text Detection with Progressive Scale Expansion Network.
 
 ## Video Text Spotting
