@@ -32,6 +32,7 @@
 - [kcws](https://github.com/koth/kcws)
 
 ### Document Segmentation
+- [LayoutParser](https://layout-parser.github.io)
 - [eynollah](https://github.com/qurator-spk/eynollah)
 - [chulwoopack/docstrum](https://github.com/chulwoopack/docstrum)
 - [LAREX](https://github.com/OCR4all/LAREX) - LAREX is a semi-automatic open-source tool for layout analysis on early printed books.
