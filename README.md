@@ -88,6 +88,7 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
+- [DeepReg](https://github.com/DeepRegNet/DeepReg)
 - [CornerText](https://github.com/lvpengyuan/corner) - [paper:2018](https://arxiv.org/abs/1802.08948)) - Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation
 - [RRPN](https://github.com/mjq11302010044/RRPN) - ([paper:2018](https://arxiv.org/abs/1703.01086)) - Arbitrary-Oriented Scene Text Detection via Rotation Proposals
 - [MASTER-TF](https://github.com/jiangxiluning/MASTER-TF) - ([paper:2021](https://arxiv.org/abs/1910.02562)) - TensorFlow reimplementation of "MASTER: Multi-Aspect Non-local Network for Scene Text Recognition" (Pattern Recognition 2021).
