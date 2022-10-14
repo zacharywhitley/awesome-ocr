@@ -88,6 +88,7 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
+- [DB](https://github.com/MhLiao/DB)
 - [DeepReg](https://github.com/DeepRegNet/DeepReg)
 - [CornerText](https://github.com/lvpengyuan/corner) - [paper:2018](https://arxiv.org/abs/1802.08948)) - Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation
 - [RRPN](https://github.com/mjq11302010044/RRPN) - ([paper:2018](https://arxiv.org/abs/1703.01086)) - Arbitrary-Oriented Scene Text Detection via Rotation Proposals
