@@ -88,7 +88,8 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
-- [RRPN](https://github.com/mjq11302010044/RRPN) - ([paper:2018](https://arxiv.org/abs/1703.01086)) -
+- [CornerText](https://github.com/lvpengyuan/corner) - [paper:2018](https://arxiv.org/abs/1802.08948)) - Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation
+- [RRPN](https://github.com/mjq11302010044/RRPN) - ([paper:2018](https://arxiv.org/abs/1703.01086)) - Arbitrary-Oriented Scene Text Detection via Rotation Proposals
 - [MASTER-TF](https://github.com/jiangxiluning/MASTER-TF) - ([paper:2021](https://arxiv.org/abs/1910.02562)) - TensorFlow reimplementation of "MASTER: Multi-Aspect Non-local Network for Scene Text Recognition" (Pattern Recognition 2021).
 - [MaskTextSpotterV3](https://github.com/MhLiao/MaskTextSpotterV3) - ([paper:2020](https://arxiv.org/abs/2007.09482)) -  Mask TextSpotter v3 is an end-to-end trainable scene text spotter that adopts a Segmentation Proposal Network (SPN) instead of an RPN.
 - [TextFuseNet](https://github.com/ying09/TextFuseNet) - ([paper:2020](https://www.ijcai.org/Proceedings/2020/72)) A PyTorch implementation of "TextFuseNet: Scene Text Detection with Richer Fused Features".
