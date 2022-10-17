@@ -199,6 +199,7 @@
 - [PSENet](https://github.com/whai362/PSENet) - Shape Robust Text Detection with Progressive Scale Expansion Network.
 
 ## Video Text Spotting
+- [VideoTextSCM](https://github.com/lsabrinax/VideoTextSCM)
 - [TransDETR](https://github.com/weijiawu/TransDETR)
 - [YORO](https://github.com/hikopensource/DAVAR-Lab-OCR/tree/main/demo/videotext/yoro) ([paper:2021](https://arxiv.org/pdf/1903.03299.pdf))
 
