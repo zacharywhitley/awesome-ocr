@@ -1,7 +1,7 @@
 # Awesome OCR
 
 ## Deskewing and Dewarping
-- [MORAN_v2](https://github.com/Canjie-Luo/MORAN_v2) - ([paper:2019](https://arxiv.org/abs/1901.03003)) - A Multi-Object Rectified Attention Network for Scene Text Recognition
+- [MORAN_v2](https://github.com/Canjie-Luo/MORAN_v2) ([paper:2019](https://arxiv.org/abs/1901.03003)) - A Multi-Object Rectified Attention Network for Scene Text Recognition
 - [thomasjhaung/deep-learning-for-document-dewarping](https://github.com/thomasjhuang/deep-learning-for-document-dewarping)
 - [unproject_text](https://github.com/mzucker/unproject_text) - Perspective recovery of text using transformed ellipses
 - [unpaper](https://github.com/Flameeyes/unpaper) - a post-processing tool for scanned sheets of paper, especially for book pages that have been scanned from previously created photocopies.
