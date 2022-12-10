@@ -88,6 +88,7 @@
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
 
 ## Text detection and localization
+
 - [DB](https://github.com/MhLiao/DB)
 - [DeepReg](https://github.com/DeepRegNet/DeepReg)
 - [CornerText](https://github.com/lvpengyuan/corner) - [paper:2018](https://arxiv.org/abs/1802.08948)) - Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation
@@ -145,21 +146,35 @@
 - [ReceiptParser](https://github.com/ReceiptManager/receipt-parser) - A fuzzy receipt parser written in Python.
 - [vedastr](https://github.com/Media-Smart/vedastr)
 
-### ABCNet
+### ABCNet [paper:2020](https://arxiv.org/pdf/2002.10200.pdf)
 - [AdelaiDet](https://github.com/aim-uofa/AdelaiDet)
 - https://github.com/Yuliang-Liu/bezier_curve_text_spotting
 - https://github.com/quangvy2703/ABCNet-ESRGAN-SRTEXT
 - https://github.com/Pxtri2156/AdelaiDet_v2
 - https://github.com/zhubinQAQ/Ins
 
+### CRAFT [paper:2019](https://arxiv.org/pdf/1904.01941.pdf)
+- [CRAFT-pytorch (official)](https://github.com/clovaai/CRAFT-pytorch) - Pytorch implementation of CRAFT text detector.
+- [autonise/CRAFT-Remade](https://github.com/autonise/CRAFT-Remade)
+- [s3nh/pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition) 
+- [backtime92/CRAFT-Reimplementation](https://github.com/backtime92/CRAFT-Reimplementation)
+- [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - PyTorch implementation of CRAFT
+- [YongWookHa/craft-text-detector](https://github.com/YongWookHa/craft-text-detector)
+- [faustomorales/keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
+- [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector)
+
 ### FOTS [paper:2018](https://arxiv.org/pdf/1801.01671.pdf)
 - [FOTS](https://github.com/xieyufei1993/FOTS) - An Implementation of the FOTS: Fast Oriented Text Spotting with a Unified Network.
 - [FOTS_OCR](https://github.com/Masao-Taketani/FOTS_OCR) 
 
-### CTPN [paper:2016](https://arxiv.org/pdf/1609.03605.pdf)
-- [text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)
-- [yizt/keras-ctpn](https://github.com/yizt/keras-ctpn)
-- [tianzhi0549/CTPN](https://github.com/tianzhi0549/CTPN) - Detecting Text in Natural Image with Connectionist Text Proposal Network
+### TextBoxes++ [paper:2018](https://arxiv.org/abs/1801.02765)
+- [TextBoxes_plusplus (offical)](https://github.com/MhLiao/TextBoxes_plusplus) TextBoxes++: A Single-Shot Oriented Scene Text Detector
+- [Shun14/TextBoxes_plusplus_Tensorflo](https://github.com/Shun14/TextBoxes_plusplus_Tensorflow) - Textboxes_plusplus implementation with Tensorflow (python)
+
+### PSENet [paper:2018](https://arxiv.org/pdf/1806.02559.pdf)
+- [tensorflow_PSENet](https://github.com/liuheng92/tensorflow_PSENet) - This is a tensorflow re-implementation of PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network
+- [PAN-PSEnet](https://github.com/rahzaazhar/PAN-PSEnet)
+- [PSENet](https://github.com/whai362/PSENet) - Shape Robust Text Detection with Progressive Scale Expansion Network.
 
 ### EAST [paper:2017](https://arxiv.org/abs/1704.03155)
 - [EAST](https://github.com/argman/EAST)(official) - (tf1/py2) A tensorflow implementation of EAST text detector
@@ -172,16 +187,6 @@
 - [EAST-Detector-for-text-detection-using-OpenCV](https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV) - Text Detection from images using OpenCV
 - [easy-EAST](https://github.com/che220/easy-EAST)
 
-### CRAFT [paper:2019](https://arxiv.org/pdf/1904.01941.pdf)
-- [CRAFT-pytorch (official)](https://github.com/clovaai/CRAFT-pytorch) - Pytorch implementation of CRAFT text detector.
-- [autonise/CRAFT-Remade](https://github.com/autonise/CRAFT-Remade)
-- [s3nh/pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition) 
-- [backtime92/CRAFT-Reimplementation](https://github.com/backtime92/CRAFT-Reimplementation)
-- [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - PyTorch implementation of CRAFT
-- [YongWookHa/craft-text-detector](https://github.com/YongWookHa/craft-text-detector)
-- [faustomorales/keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
-- [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector)
-
 ### TextBoxes [paper:2016](https://arxiv.org/abs/1611.06779)
 - [TextBoxes (official)](https://github.com/MhLiao/TextBoxes)
 - [TextBoxes-TensorFlow](https://github.com/gxd1994/TextBoxes-TensorFlow) - TextBoxes re-implement using tensorflow
@@ -189,14 +194,10 @@
 - [shinjayne/textboxes](https://github.com/shinjayne/textboxes) - Textboxes implementation with Tensorflow (python)
 - [shinTB](https://github.com/shinjayne/shinTB) - Textboxes : Image Text Detection Model : python package (tensorflow)
 
-### TextBoxes++ [paper:2018](https://arxiv.org/abs/1801.02765)
-- [TextBoxes_plusplus (offical)](https://github.com/MhLiao/TextBoxes_plusplus) TextBoxes++: A Single-Shot Oriented Scene Text Detector
-- [Shun14/TextBoxes_plusplus_Tensorflo](https://github.com/Shun14/TextBoxes_plusplus_Tensorflow) - Textboxes_plusplus implementation with Tensorflow (python)
-
-### PSENet [paper:2018](https://arxiv.org/pdf/1806.02559.pdf)
-- [tensorflow_PSENet](https://github.com/liuheng92/tensorflow_PSENet) - This is a tensorflow re-implementation of PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network
-- [PAN-PSEnet](https://github.com/rahzaazhar/PAN-PSEnet)
-- [PSENet](https://github.com/whai362/PSENet) - Shape Robust Text Detection with Progressive Scale Expansion Network.
+### CTPN [paper:2016](https://arxiv.org/pdf/1609.03605.pdf)
+- [text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)
+- [yizt/keras-ctpn](https://github.com/yizt/keras-ctpn)
+- [tianzhi0549/CTPN](https://github.com/tianzhi0549/CTPN) - Detecting Text in Natural Image with Connectionist Text Proposal Network
 
 ## Video Text Spotting
 - [VideoTextSCM](https://github.com/lsabrinax/VideoTextSCM)
@@ -208,6 +209,7 @@
 - [typefont](https://github.com/Vasile-Peste/Typefont) - The first open-source library that detects the font of a text in a image. 
 
 ## Optical Character Recognition Engines and Frameworks
+
 - [DAVAR-lab-OCR](https://github.com/hikopensource/davar-lab-ocr)
 - [CRNN.tf2](https://github.com/FLming/CRNN.tf2)
 - [ocr.pytorch](https://github.com/courao/ocr.pytorch)
@@ -347,7 +349,6 @@ A curated list of resources dedicated to scene text localization and recognition
 - [sbb_binarization](https://github.com/qurator-spk/sbb_binarization) - 
 
 ## Post OCR Correction
-
 - [KBNLresearch/ochre](https://github.com/KBNLresearch/ochre) - Toolbox for OCR post-correction
 - [cisocrgroup/PoCoTo](https://github.com/cisocrgroup/PoCoTo) - The CIS OCR PostCorrectionTool
 - [afterscan](http://www.afterscan.com/) 
