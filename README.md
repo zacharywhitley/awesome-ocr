@@ -66,6 +66,7 @@
 - [vloison/Handwritten_Text_Recognition](https://github.com/vloison/Handwritten_Text_Recognition)
 - https://github.com/sushant097/Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow
 - https://github.com/qurator-spk/sbb_textline_detection
+- [Handprint](https://github.com/caltechlibrary/handprint) - apply HTR services from Amazon, Google, and/or Microsoft to scanned documents
 
 ## Table detection
 
