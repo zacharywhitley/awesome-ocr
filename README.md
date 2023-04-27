@@ -1,7 +1,7 @@
 # Awesome OCR
 
 ## Deskewing and Dewarping
-- [jdeskew](https://github.com/phamquiluan/jdeskew) ([paper:2022](https://www.researchgate.net/publication/364320913_ADAPTIVE_RADIAL_PROJECTION_ON_FOURIER_MAGNITUDE_SPECTRUM_FOR_DOCUMENT_IMAGE_SKEW_ESTIMATION)) - 
+- [jdeskew](https://github.com/phamquiluan/jdeskew) ([paper:2022](https://www.researchgate.net/publication/364320913_ADAPTIVE_RADIAL_PROJECTION_ON_FOURIER_MAGNITUDE_SPECTRUM_FOR_DOCUMENT_IMAGE_SKEW_ESTIMATION)) - Adaptive Radial Projection on Fourier Magnitude Spectrum for Document Image Skew Estimation
 - [DewarpNet](https://github.com/cvlab-stonybrook/DewarpNet) ([paper:2019](https://www3.cs.stonybrook.edu/~cvl/projects/dewarpnet/storage/paper.pdf))
 - [MORAN_v2](https://github.com/Canjie-Luo/MORAN_v2) ([paper:2019](https://arxiv.org/abs/1901.03003)) - A Multi-Object Rectified Attention Network for Scene Text Recognition
 - [thomasjhaung/deep-learning-for-document-dewarping](https://github.com/thomasjhuang/deep-learning-for-document-dewarping)
