@@ -214,6 +214,7 @@
 
 ## Optical Character Recognition Engines and Frameworks
 
+- [texify](https://github.com/VikParuchuri/texify) - OCR model for math that outputs LaTeX and markdown.
 - [DAVAR-lab-OCR](https://github.com/hikopensource/davar-lab-ocr)
 - [CRNN.tf2](https://github.com/FLming/CRNN.tf2)
 - [ocr.pytorch](https://github.com/courao/ocr.pytorch)
