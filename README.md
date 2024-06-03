@@ -72,6 +72,7 @@
 
 ## Table detection
 
+- [unitable](https://github.com/poloclub/unitable) - [paper:2024](https://arxiv.org/abs/2403.04822) UniTable: Towards a Unified Table Foundation Model
 - [TableTransformer](https://github.com/microsoft/table-transformer)
 - [TableNet](https://github.com/jainammm/TableNet) - Unofficial implementation of ICDAR 2019 paper : TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images.
 - [image-table-ocr](https://github.com/eihli/image-table-ocr)
