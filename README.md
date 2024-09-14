@@ -30,7 +30,7 @@
 - [sharatsawhney/character_segmentation](https://github.com/sharatsawhney/character_segmentation)
 
 ### Word Segmentation
-- [githubharald/WordSegmentation](https://github.com/githubharald/WordSegmentation)
+- [githubharald/WordSegmentation](https://github.com/githubharald/WordSegmentation) Detect handwritten words (classic image processing based method).
 - [kcws](https://github.com/koth/kcws)
 
 ### Document Segmentation
