@@ -215,6 +215,7 @@
 
 ## Optical Character Recognition Engines and Frameworks
 
+- [gImageReader](https://github.com/manisandro/gImageReader) - A GTK/Qt frontend to tesseract OCR. Visual HOCR editor.
 - [texify](https://github.com/VikParuchuri/texify) - OCR model for math that outputs LaTeX and markdown.
 - [DAVAR-lab-OCR](https://github.com/hikopensource/davar-lab-ocr)
 - [CRNN.tf2](https://github.com/FLming/CRNN.tf2)
@@ -302,6 +303,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - https://github.com/kba/awesome-ocr
 - https://github.com/soumendra/awesome-ocr
 - [chongyangtao/Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition) - Papers and datasets
+- [ocr-conversion](https://github.com/cneud/ocr-conversion) - Collection of scripts and stylesheets for conversion between various OCR formats
 
 ## Proprietary OCR Engines
 - [ABBYY](https://www.abbyy.com/en-us/)
@@ -314,17 +316,18 @@ A curated list of resources dedicated to scene text localization and recognition
 - [impira](https://www.impira.com/try/smarter-ocr)
 - [AWS Textract](https://aws.amazon.com/textract/)
 - [Nanonets](https://nanonets.com/ocr-api/)
-- [docparser](https://docparser.com/
+- [docparser](https://docparser.com/)
 - [ocrolus](https://www.ocrolus.com/)
 - [Butler Labs](https://www.butlerlabs.ai/)
 
 ## File formats and tools
 - [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files
-- [hocr](http://kba.cloud/hocr-spec/1.2/)
+- [hocr file format specification](https://kba.github.io/hocr-spec/1.2/)
 - [alto](https://github.com/altoxml)
 - [PageXML](https://github.com/PRImA-Research-Lab/PAGE-XML)
 - [ocr-fileformat](https://github.com/UB-Mannheim/ocr-fileformat) - Validate and transform various OCR file formats
 - [hocr-tools](https://github.com/tmbdev/hocr-tools) - Tools for manipulating and evaluating the hOCR format for representing multi-lingual OCR results by embedding them into HTML.
+  - [archive-hocr-tools](https://github.com/internetarchive/archive-hocr-tools) - hocr-tools by the [Internet Archive](https://archive.org/)
 
 ## Datasets
 - http://www.iapr-tc11.org/mediawiki/index.php/Datasets_List
@@ -357,7 +360,15 @@ A curated list of resources dedicated to scene text localization and recognition
 ## Post OCR Correction
 - [KBNLresearch/ochre](https://github.com/KBNLresearch/ochre) - Toolbox for OCR post-correction
 - [cisocrgroup/PoCoTo](https://github.com/cisocrgroup/PoCoTo) - The CIS OCR PostCorrectionTool
-- [afterscan](http://www.afterscan.com/) 
+- [afterscan](http://www.afterscan.com/) - spell-checker and automatic proofing and correction tool - gone since 2023 ([archive](http://web.archive.org/web/20230818104044/http://www.afterscan.com/))
+
+## OCR Proofreading
+- [scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully-digitized documents.
+- [hocrjs](https://github.com/kba/hocrjs) - Working with hOCR in Javascript - last commit: 2022
+- [hocr-proofreader](https://github.com/not-implemented/hocr-proofreader) - Web based JavaScript GUI library for proofreading/editing hOCR - last commit: 2017
+- [hocr-editor-qt](https://github.com/milahu/hocr-editor-qt) - graphical HOCR editor to produce minimal diffs for proofreading of tesseract OCR output
+- [HocrEditor](https://github.com/GeReV/HocrEditor) - A visual editor for .hocr files, written in C# \[BROKEN]
+- [hocr-editor-ts](https://github.com/milahu/hocr-editor-ts) - A visual hOCR file editor in TypeScript \[BROKEN]
 
 ## Benchmarks
 - [TedEval](https://github.com/clovaai/TedEval)
