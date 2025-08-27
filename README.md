@@ -215,6 +215,7 @@
 
 ## Optical Character Recognition Engines and Frameworks
 
+- [gImageReader](https://github.com/manisandro/gImageReader) - A GTK/Qt frontend to tesseract OCR. Visual HOCR editor.
 - [texify](https://github.com/VikParuchuri/texify) - OCR model for math that outputs LaTeX and markdown.
 - [DAVAR-lab-OCR](https://github.com/hikopensource/davar-lab-ocr)
 - [CRNN.tf2](https://github.com/FLming/CRNN.tf2)
