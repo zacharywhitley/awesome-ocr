@@ -361,6 +361,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [afterscan](http://www.afterscan.com/) 
 
 ## OCR Proofreading
+- [scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully-digitized documents.
 
 ## Benchmarks
 - [TedEval](https://github.com/clovaai/TedEval)
