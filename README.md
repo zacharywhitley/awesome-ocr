@@ -325,6 +325,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [PageXML](https://github.com/PRImA-Research-Lab/PAGE-XML)
 - [ocr-fileformat](https://github.com/UB-Mannheim/ocr-fileformat) - Validate and transform various OCR file formats
 - [hocr-tools](https://github.com/tmbdev/hocr-tools) - Tools for manipulating and evaluating the hOCR format for representing multi-lingual OCR results by embedding them into HTML.
+  - [archive-hocr-tools](https://github.com/internetarchive/archive-hocr-tools) - hocr-tools by the [Internet Archive](https://archive.org/)
 
 ## Datasets
 - http://www.iapr-tc11.org/mediawiki/index.php/Datasets_List
