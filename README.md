@@ -363,6 +363,7 @@ A curated list of resources dedicated to scene text localization and recognition
 ## OCR Proofreading
 - [scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully-digitized documents.
 - [hocrjs](https://github.com/kba/hocrjs) - Working with hOCR in Javascript - last commit: 2022
+- [hocr-proofreader](https://github.com/not-implemented/hocr-proofreader) - Web based JavaScript GUI library for proofreading/editing hOCR - last commit: 2017
 
 ## Benchmarks
 - [TedEval](https://github.com/clovaai/TedEval)
