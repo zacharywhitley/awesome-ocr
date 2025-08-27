@@ -360,6 +360,8 @@ A curated list of resources dedicated to scene text localization and recognition
 - [cisocrgroup/PoCoTo](https://github.com/cisocrgroup/PoCoTo) - The CIS OCR PostCorrectionTool
 - [afterscan](http://www.afterscan.com/) 
 
+## OCR Proofreading
+
 ## Benchmarks
 - [TedEval](https://github.com/clovaai/TedEval)
 - [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods.
