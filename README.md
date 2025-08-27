@@ -365,6 +365,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [hocrjs](https://github.com/kba/hocrjs) - Working with hOCR in Javascript - last commit: 2022
 - [hocr-proofreader](https://github.com/not-implemented/hocr-proofreader) - Web based JavaScript GUI library for proofreading/editing hOCR - last commit: 2017
 - [HocrEditor](https://github.com/GeReV/HocrEditor) - A visual editor for .hocr files, written in C# \[BROKEN]
+- [hocr-editor-ts](https://github.com/milahu/hocr-editor-ts) - A visual hOCR file editor in TypeScript \[BROKEN]
 
 ## Benchmarks
 - [TedEval](https://github.com/clovaai/TedEval)
