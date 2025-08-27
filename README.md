@@ -314,7 +314,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [impira](https://www.impira.com/try/smarter-ocr)
 - [AWS Textract](https://aws.amazon.com/textract/)
 - [Nanonets](https://nanonets.com/ocr-api/)
-- [docparser](https://docparser.com/
+- [docparser](https://docparser.com/)
 - [ocrolus](https://www.ocrolus.com/)
 - [Butler Labs](https://www.butlerlabs.ai/)
 
