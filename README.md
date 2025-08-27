@@ -303,6 +303,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - https://github.com/kba/awesome-ocr
 - https://github.com/soumendra/awesome-ocr
 - [chongyangtao/Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition) - Papers and datasets
+- [ocr-conversion](https://github.com/cneud/ocr-conversion) - Collection of scripts and stylesheets for conversion between various OCR formats
 
 ## Proprietary OCR Engines
 - [ABBYY](https://www.abbyy.com/en-us/)
