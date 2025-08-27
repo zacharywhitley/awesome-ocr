@@ -358,7 +358,7 @@ A curated list of resources dedicated to scene text localization and recognition
 ## Post OCR Correction
 - [KBNLresearch/ochre](https://github.com/KBNLresearch/ochre) - Toolbox for OCR post-correction
 - [cisocrgroup/PoCoTo](https://github.com/cisocrgroup/PoCoTo) - The CIS OCR PostCorrectionTool
-- [afterscan](http://www.afterscan.com/) - gone since 2023 ([archive](http://web.archive.org/web/20230818104044/http://www.afterscan.com/))
+- [afterscan](http://www.afterscan.com/) - spell-checker and automatic proofing and correction tool - gone since 2023 ([archive](http://web.archive.org/web/20230818104044/http://www.afterscan.com/))
 
 ## OCR Proofreading
 - [scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully-digitized documents.
