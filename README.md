@@ -318,6 +318,8 @@ A curated list of resources dedicated to scene text localization and recognition
 - [ocrolus](https://www.ocrolus.com/)
 - [Butler Labs](https://www.butlerlabs.ai/)
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## File formats and tools
 - [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files
 - [hocr](http://kba.cloud/hocr-spec/1.2/)
