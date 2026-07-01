@@ -215,6 +215,7 @@
 
 ## Optical Character Recognition Engines and Frameworks
 
+- [xberg](https://github.com/xberg-io/xberg) - Document intelligence framework with a Rust core and optional Tesseract OCR; extracts text, tables, and metadata from PDFs, images, and 97+ formats, with bindings for 11 languages.
 - [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) ([paper:2026](https://arxiv.org/abs/2606.23050)) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [texify](https://github.com/VikParuchuri/texify) - OCR model for math that outputs LaTeX and markdown.
 - [DAVAR-lab-OCR](https://github.com/hikopensource/davar-lab-ocr)
