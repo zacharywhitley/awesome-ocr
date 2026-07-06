@@ -91,6 +91,7 @@
 - [langdetect](https://pypi.org/project/langdetect/)
 - [whatthelang](https://github.com/indix/whatthelang) - Lightning Fast Language Prediction rocket
 - [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect)
+- [PicTranslate](https://pictranslate.net) - AI image translator and OCR tool. Extract and translate text from photos, manga, menus, and documents in 40+ language...
 
 ## Text detection and localization
 
