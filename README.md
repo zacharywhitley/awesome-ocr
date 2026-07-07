@@ -215,6 +215,7 @@
 
 ## Optical Character Recognition Engines and Frameworks
 
+- [natocr](https://github.com/alfredchiesa/natocr) - Python wrapper for native macOS Vision and Windows Runtime OCR, with batch/async APIs and CLI output to text, JSON, hOCR, and searchable PDF.
 - [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) ([paper:2026](https://arxiv.org/abs/2606.23050)) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [texify](https://github.com/VikParuchuri/texify) - OCR model for math that outputs LaTeX and markdown.
 - [DAVAR-lab-OCR](https://github.com/hikopensource/davar-lab-ocr)
