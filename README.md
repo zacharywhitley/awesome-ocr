@@ -215,6 +215,7 @@
 
 ## Optical Character Recognition Engines and Frameworks
 
+- [light-ocr](https://github.com/arcships/light-ocr) - Fast, offline OCR for Node.js and C++ with PP-OCRv6, prebuilt cross-platform runtimes, and line-level confidence scores and coordinates.
 - [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) ([paper:2026](https://arxiv.org/abs/2606.23050)) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [texify](https://github.com/VikParuchuri/texify) - OCR model for math that outputs LaTeX and markdown.
 - [DAVAR-lab-OCR](https://github.com/hikopensource/davar-lab-ocr)
