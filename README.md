@@ -1,12 +1,14 @@
 # Awesome OCR
 
 ## Deskewing and Dewarping
+- [DvD](https://github.com/hanquansanren/DvD) ([paper:2025](https://arxiv.org/pdf/2505.21975)) - Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model
+- [DRCCBI](https://github.com/HorizonParadox/DRCCBI) ([paper:2025](https://arxiv.org/html/2501.03145v3)) - Geometry Restoration and Dewarping of Camera-Captured Document Images
 - [jdeskew](https://github.com/phamquiluan/jdeskew) ([paper:2022](https://www.researchgate.net/publication/364320913_ADAPTIVE_RADIAL_PROJECTION_ON_FOURIER_MAGNITUDE_SPECTRUM_FOR_DOCUMENT_IMAGE_SKEW_ESTIMATION)) - Adaptive Radial Projection on Fourier Magnitude Spectrum for Document Image Skew Estimation
 - [DewarpNet](https://github.com/cvlab-stonybrook/DewarpNet) ([paper:2019](https://www3.cs.stonybrook.edu/~cvl/projects/dewarpnet/storage/paper.pdf))
 - [MORAN_v2](https://github.com/Canjie-Luo/MORAN_v2) ([paper:2019](https://arxiv.org/abs/1901.03003)) - A Multi-Object Rectified Attention Network for Scene Text Recognition
 - [thomasjhaung/deep-learning-for-document-dewarping](https://github.com/thomasjhuang/deep-learning-for-document-dewarping) An application of high resolution GANs to dewarp images of perturbed documents
 - [unproject_text](https://github.com/mzucker/unproject_text) - Perspective recovery of text using transformed ellipses
-- [unpaper](https://github.com/Flameeyes/unpaper) - a post-processing tool for scanned sheets of paper, especially for book pages that have been scanned from previously created photocopies.
+- [unpaper](https://github.com/unpaper/unpaper) - a post-processing tool for scanned sheets of paper, especially for book pages that have been scanned from previously created photocopies.
 - [deskew](https://github.com/sbrunner/deskew) - Library used to deskew a scanned document
 - [deskewing](https://github.com/sauravbiswasiupr/deskewing) - Contains code to deskew images using MLPs, LSTMs and LLS tranformations
 - [skew_correction](https://github.com/prajwalmylar/skew_correction) - De-skewing images with slanted content by finding the deviation using Canny Edge Detection.
