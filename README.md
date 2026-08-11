@@ -7,7 +7,7 @@
 - [DewarpNet](https://github.com/cvlab-stonybrook/DewarpNet) ([paper:2019](https://www3.cs.stonybrook.edu/~cvl/projects/dewarpnet/storage/paper.pdf))
 - [MORAN_v2](https://github.com/Canjie-Luo/MORAN_v2) ([paper:2019](https://arxiv.org/abs/1901.03003)) - A Multi-Object Rectified Attention Network for Scene Text Recognition
 - [thomasjhaung/deep-learning-for-document-dewarping](https://github.com/thomasjhuang/deep-learning-for-document-dewarping) (2020) An application of high resolution GANs to dewarp images of perturbed documents
-- [unproject_text](https://github.com/mzucker/unproject_text) - Perspective recovery of text using transformed ellipses
+- [unproject_text](https://github.com/mzucker/unproject_text) (2016) - Perspective recovery of text using transformed ellipses
 - [unpaper](https://github.com/unpaper/unpaper) - a post-processing tool for scanned sheets of paper, especially for book pages that have been scanned from previously created photocopies.
 - [deskew](https://github.com/sbrunner/deskew) - Library used to deskew a scanned document
 - [deskewing](https://github.com/sauravbiswasiupr/deskewing) - Contains code to deskew images using MLPs, LSTMs and LLS tranformations
