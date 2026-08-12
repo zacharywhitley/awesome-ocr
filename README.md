@@ -17,7 +17,7 @@
 - [galfar/deskew](https://github.com/galfar/deskew) - Deskew is a command line tool for deskewing scanned text documents. It uses Hough transform to detect "text lines" in the image. As an output, you get an image rotated so that the lines are horizontal.
 - [xellows1305/Document-Image-Dewarping](https://github.com/xellows1305/Document-Image-Dewarping) - No code :(
 - https://github.com/RaymondMcGuire/BOOK-CONTENT-SEGMENTATION-AND-DEWARPING
-- [Docuwarp](https://github.com/thomasjhuang/deep-learning-for-document-dewarping)
+- [Docuwarp](https://github.com/thomasjhuang/deep-learning-for-document-dewarping) - An application of high resolution GANs to dewarp images of perturbed documents
 - [Alyn](https://github.com/kakul/Alyn)
 
 
