@@ -219,6 +219,7 @@
 
 ## Optical Character Recognition Engines and Frameworks
 
+- [LightOnOCR](https://github.com/TheAwaken1/LightOnOCR-2-1B-Pinokio)
 - [nemotron-ocr-v1](https://build.nvidia.com/nvidia/nemotron-ocr-v1)
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR)
 - [olmocr](https://github.com/allenai/olmocr)
