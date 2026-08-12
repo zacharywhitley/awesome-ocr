@@ -19,7 +19,7 @@
 - https://github.com/RaymondMcGuire/BOOK-CONTENT-SEGMENTATION-AND-DEWARPING
 - [Docuwarp](https://github.com/thomasjhuang/deep-learning-for-document-dewarping) - An application of high resolution GANs to dewarp images of perturbed documents
 - [Alyn](https://github.com/kakul/Alyn)
-
+- [Dewarping-Document-Image-By-Displacement-Flow-Estimation](https://github.com/gwxie/Dewarping-Document-Image-By-Displacement-Flow-Estimation)([paper](https://arxiv.org/pdf/2104.06815):2021)
 
 ## Segmentation
 
