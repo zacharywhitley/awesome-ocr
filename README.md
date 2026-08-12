@@ -21,6 +21,8 @@
 - [Alyn](https://github.com/kakul/Alyn)
 - [Dewarping-Document-Image-By-Displacement-Flow-Estimation](https://github.com/gwxie/Dewarping-Document-Image-By-Displacement-Flow-Estimation)([paper](https://arxiv.org/pdf/2104.06815):2021)
 - [doc-dewarping](https://github.com/PINTO0309/doc-dewarping) - Document Image Dewarping Using Text Lines and Line Segments via Classical Methods Only (Without Machine Learning)
+- [xiaomore/Document-Image-Dewarping](https://github.com/xiaomore/Document-Image-Dewarping)
+  
 ## Segmentation
 
 ### Line Segmentation
