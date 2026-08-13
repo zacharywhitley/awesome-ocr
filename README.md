@@ -56,7 +56,12 @@
 - [LayoutML](https://github.com/microsoft/unilm/tree/master/layoutlm)
 - [LayoutLMv2](https://github.com/microsoft/unilm/tree/master/layoutlmv2)
 - [eynollah](https://github.com/qurator-spk/eynollah)
-
+- [lizfischer/document-segmentation](https://github.com/lizfischer/document-segmentation)
+- [DALAI-project/Document_segmentation](https://github.com/DALAI-project/Document_segmentation)
+- [DocSAM](https://github.com/xhli-git/DocSAM)
+- [ppu-doclayout](https://github.com/PT-Perkasa-Pilar-Utama/ppu-doclayout)
+- [sfdla-DLAdapter](https://github.com/s3setewe/sfdla-DLAdapter)
+  
 ### Form Segmentation
 - https://github.com/doxakis/form-segmentation
 
