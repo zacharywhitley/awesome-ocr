@@ -224,6 +224,7 @@
 
 ## Optical Character Recognition Engines and Frameworks
 
+- [xberg](https://github.com/xberg-io/xberg) - Document intelligence framework with a Rust core and optional Tesseract OCR; extracts text, tables, and metadata from PDFs, images, and 97+ formats, with bindings for 11 languages.
 - [LightOnOCR](https://github.com/TheAwaken1/LightOnOCR-2-1B-Pinokio)
 - [nemotron-ocr-v1](https://build.nvidia.com/nvidia/nemotron-ocr-v1)
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR)
