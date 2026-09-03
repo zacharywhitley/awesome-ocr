@@ -353,6 +353,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [scenetext](http://www.robots.ox.ac.uk/~vgg/data/scenetext/) - This is a synthetically generated dataset, in which word instances are placed in natural scene images, while taking into account the scene layout.
 - [Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)
 - [ocr-open-dataset](https://github.com/xylcbd/ocr-open-dataset)
+- [Belege — Synthetic German Invoices](https://huggingface.co/datasets/laterrr/belege-de-invoices-sample) - 1,000 synthetic German invoices/credit notes with pixel-level bounding-box labels for every field, covering the zero-tax cases (§19 UStG small-business exemption, §13b UStG reverse charge) that are absent from SROIE and typically unseen by models trained only on English invoice data. Free 40-document sample at the link; full set is a paid download.
 
 ## Data augmentation and Synthetic data generation
 - [DocCreator](http://doc-creator.labri.fr/) - DIAR software for synthetic document image and groundtruth generation, with various degradation models for data augmentation.
