@@ -221,6 +221,7 @@
 ## Font detection
 
 - [typefont](https://github.com/Vasile-Peste/Typefont) - The first open-source library that detects the font of a text in a image. 
+- [WhatFontIs-Bench](https://github.com/whatfontis/WhatFontIs-Bench) - Synthetic benchmark for font identification: 11,995 images, 600 fonts, word and per-letter boxes in COCO format.
 
 ## Optical Character Recognition Engines and Frameworks
 
