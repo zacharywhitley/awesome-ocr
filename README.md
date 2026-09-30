@@ -394,3 +394,4 @@ A curated list of resources dedicated to scene text localization and recognition
 - [nidaba](https://github.com/openphilology/nidaba/) - An expandable and scalable OCR pipeline
 - https://github.com/MaybeShewill-CV/CRNN_Tensorflow
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)
+- [snipmd](https://github.com/Arthur031221/snipmd) - Hotkey, drag a box, get Markdown or LaTeX on the clipboard. Offline Mathpix Snip alternative for macOS, running the GLM-OCR model locally via MLX (or Ollama off Apple Silicon).
