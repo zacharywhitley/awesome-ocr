@@ -332,6 +332,7 @@ A curated list of resources dedicated to scene text localization and recognition
 - [ocrolus](https://www.ocrolus.com/)
 - [Butler Labs](https://www.butlerlabs.ai/)
 - [Mistral OCR 4](https://docs.mistral.ai/models/model-cards/ocr-4-0)
+- [Tanod PDF OCR API](https://tanod.dev/learn/pdf-ocr-api.html) - Pay-per-call OCR for scanned PDFs and images (searchable PDF or text), also exposed as an MCP server for AI agents; small free daily allowance, no account.
 
 ## File formats and tools
 - [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files
