@@ -394,3 +394,4 @@ A curated list of resources dedicated to scene text localization and recognition
 - [nidaba](https://github.com/openphilology/nidaba/) - An expandable and scalable OCR pipeline
 - https://github.com/MaybeShewill-CV/CRNN_Tensorflow
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)
+- [Yangopen Image to Text](https://yangopen.com/tools/image-to-text/) - Free web OCR that runs in the browser: images and PDFs, Vietnamese, English and 15 more languages, no upload, no account.
